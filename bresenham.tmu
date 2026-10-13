@@ -1,0 +1,917 @@
+<TMU|<tuple|1.1.0|2026.3.0>>
+
+<style|<tuple|generic|chinese|table-captions-above|number-europe|preview-ref>>
+
+<\body>
+  <chapter*|Bresenham 画直线与画圆算法笔记>
+
+  <section*|一、核心思想>
+
+  理想的直线和圆是连续曲线，而屏幕只能绘制整数坐标上的像素。
+
+  Bresenham 算法的思路是：
+
+  <\enumerate>
+    <item>沿曲线的主要方向，每次推进一个像素。
+
+    <item>在少数几个候选像素中，选择更贴近理想曲线的那个。
+
+    <item>用一个<with|font-series|bold|判断量>记录偏差，通过整数加减更新，避免每一步重新计算乘法、除法或平方。
+  </enumerate>
+
+  判断量通常叫 <code*|err>、<code*|p> 或 <code*|d>。<with|font-series|bold|它们并不直接等于像素到曲线的几何距离，其含义必须结合定义理解。>
+
+  <hrule>
+
+  <section*|二、Bresenham 画直线>
+
+  <subsection*|1. 将任意方向归一化>
+
+  给定起点 <math|(x<rsub|0>,y<rsub|0>)> 和终点 <math|(x<rsub|1>,y<rsub|1>)>，定义：
+
+  <equation*|\<mathd\>x=\|x<rsub|1>-x<rsub|0>\|,<space|2em>dy=\|y<rsub|1>-y<rsub|0>\|>
+
+  实际坐标的推进方向由下式控制：
+
+  <\cpp-code>
+    int sx = x0 \<less\> x1 ? 1 : -1;
+
+    int sy = y0 \<less\> y1 ? 1 : -1;
+  </cpp-code>
+
+  为了推导方便，将起点平移到原点，并将坐标轴朝向终点。这样只需研究：
+
+  <equation*|(0,0)⟶(\<mathd\>x,dy)>
+
+  下文推导中的 <math|(x,y)> 指这个归一化坐标系中的位置。
+
+  <subsection*|2. 定义偏差>
+
+  理想直线满足：
+
+  <equation*|dx⋅y-dy⋅x=0>
+
+  定义：
+
+  <equation*|<boxed|F=dx⋅y-dy⋅x>>
+
+  当 <math|dx\>0> 时：
+
+  <equation*|F=\<mathd\>x<left|(>y-<frac|dy|\<mathd\>x>x<right|)>>
+
+  因此：
+
+  <\itemize>
+    <item><math|F=0>：像素在直线上。
+
+    <item><math|F\>0>：像素在直线上方。
+
+    <item><math|F\<less\>0>：像素在直线下方。
+  </itemize>
+
+  这个偏差有非常简单的更新规则：
+
+  <equation*|<boxed|x增加 1<space|1em>⇒<space|1em>F←F-dy>>
+
+  <equation*|<boxed|y增加 1<space|1em>⇒<space|1em>F←F+\<mathd\>x>>
+
+  <subsection*|3. 平缓直线：每列选择一个像素>
+
+  当 <math|dx≥dy> 且 <math|dx\>0> 时，每次 x 增加 1，候选像素为：
+
+  <equation*|A=(x+1,y),<space|2em>B=(x+1,y+1)>
+
+  两个候选的中点高度为 <math|y+<frac|1|2>>。
+
+  下一列中，理想直线的高度为：
+
+  <equation*|y<rsub|理想>=<frac|dy|\<mathd\>x>(x+1)>
+
+  若理想高度达到或超过中点，选择 B，让 y 也增加 1：
+
+  <equation*|<frac|dy|\<mathd\>x>(x+1)≥y+<frac|1|2>>
+
+  整理得到：
+
+  <equation*|<boxed|F≤dy-<frac|\<mathd\>x|2>>>
+
+  否则选择 A，保持 y 不变。
+
+  等号表示两个像素同样接近理想直线；这里约定选择 B。
+
+  <subsection*|4. 陡峭直线：每行选择一个像素>
+
+  当 <math|dy≥dx> 且 <math|dy\>0> 时，每次 y 增加 1，候选像素为：
+
+  <equation*|A=(x,y+1),<space|2em>B=(x+1,y+1)>
+
+  如果下一行中理想直线的横坐标达到或超过 <math|x+<frac|1|2>>，就让 x 也增加 1：
+
+  <equation*|<frac|\<mathd\>x|dy>(y+1)≥x+<frac|1|2>>
+
+  整理得到：
+
+  <equation*|<boxed|F≥<frac|dy|2>-\<mathd\>x>>
+
+  否则 x 不变。
+
+  <subsection*|5. 引入 <code*|err>，统一两种情况>
+
+  定义：
+
+  <equation*|<boxed|err=F+\<mathd\>x-dy>>
+
+  于是两个判断条件分别变为：
+
+  <equation*|<boxed|推进 x：<space|1em>2err≥-dy>>
+
+  <equation*|<boxed|推进 y：<space|1em>2err≤dx>>
+
+  因为起点处 <math|F=0>，所以：
+
+  <equation*|<boxed|err<rsub|0>=\<mathd\>x-dy>>
+
+  <code*|err> 与 F 只相差常数，更新方式也相同：
+
+  <\cpp-code>
+    推进 x：err -= dy;
+
+    推进 y：err += dx;
+  </cpp-code>
+
+  <subsection*|6. 为什么不必先判断平缓还是陡峭？>
+
+  关键是：<with|font-series|bold|主要方向的推进条件会自动成立。>
+
+  <subsubsection*|平缓时，推进 x 的条件必定成立>
+
+  当前像素是本列最近的像素，所以纵向偏差不超过半个像素：
+
+  <equation*|-<frac|\<mathd\>x|2>≤F≤<frac|\<mathd\>x|2>>
+
+  因此：
+
+  <equation*|2err=2F+2dx-2dy ≥dx-2dy ≥-dy>
+
+  最后一步使用了 <math|dx≥dy>。
+
+  所以 x 每轮必定推进，y 则由中点判断决定。
+
+  <subsubsection*|陡峭时，推进 y 的条件必定成立>
+
+  当前像素是本行最近的像素，所以横向偏差不超过半个像素，从而：
+
+  <equation*|-<frac|dy|2>≤F≤<frac|dy|2>>
+
+  因此：
+
+  <equation*|2err=2F+2dx-2dy ≤2dx-dy ≤dx>
+
+  最后一步使用了 <math|dy≥dx>。
+
+  所以 y 每轮必定推进，x 则由中点判断决定。
+
+  这些偏差范围可以归纳证明：起点偏差为 0；每轮的中点选择又保证下一点是下一列或下一行中最近的像素。
+
+  <subsection*|7. 完整代码>
+
+  <\cpp-code>
+    #include \<less\>cstdlib\>
+
+    \;
+
+    void plotLine(int x0, int y0, int x1, int y1)
+
+    {
+
+    \ \ \ \ int dx = std::abs(x1 - x0);
+
+    \ \ \ \ int dy = std::abs(y1 - y0);
+
+    \;
+
+    \ \ \ \ int sx = x0 \<less\> x1 ? 1 : -1;
+
+    \ \ \ \ int sy = y0 \<less\> y1 ? 1 : -1;
+
+    \;
+
+    \ \ \ \ int err = dx - dy;
+
+    \;
+
+    \ \ \ \ for (;;) {
+
+    \ \ \ \ \ \ \ \ setPixel(x0, y0);
+
+    \;
+
+    \ \ \ \ \ \ \ \ if (x0 == x1 && y0 == y1)
+
+    \ \ \ \ \ \ \ \ \ \ \ \ break;
+
+    \;
+
+    \ \ \ \ \ \ \ \ int e2 = 2 * err;
+
+    \;
+
+    \ \ \ \ \ \ \ \ if (e2 \>= -dy) {
+
+    \ \ \ \ \ \ \ \ \ \ \ \ err -= dy;
+
+    \ \ \ \ \ \ \ \ \ \ \ \ x0 += sx;
+
+    \ \ \ \ \ \ \ \ }
+
+    \;
+
+    \ \ \ \ \ \ \ \ if (e2 \<less\>= dx) {
+
+    \ \ \ \ \ \ \ \ \ \ \ \ err += dx;
+
+    \ \ \ \ \ \ \ \ \ \ \ \ y0 += sy;
+
+    \ \ \ \ \ \ \ \ }
+
+    \ \ \ \ }
+
+    }
+  </cpp-code>
+
+  该写法支持水平线、竖直线、任意象限，以及起终点重合的情况。
+
+  <subsubsection*|为什么必须保存 <code*|e2>？>
+
+  两个判断都针对<with|font-series|bold|本轮开始时的同一个像素>推导，必须使用同一份原始误差。
+
+  第一个分支可能修改 <code*|err>，第二个判断仍应使用保存的 <code*|e2>。
+
+  <subsubsection*|为什么不能使用 <code*|else if>？>
+
+  因为某一轮可能同时推进 x 和 y，即沿对角方向移动一个像素。
+
+  <subsection*|8. 示例：从 <code*|(0,0)> 到 <code*|(5,1)>>
+
+  初始化：
+
+  <equation*|\<mathd\>x=5,<space|2em>dy=1,<space|2em>err=4>
+
+  <\block>
+    <tformat|<cwith|1|-1|1|-1|cell-hyphen|t>|<twith|table-hyphen|y>|<twith|table-width|1par>|<twith|table-hmode|exact>|<cwith|1|-1|2|2|cell-halign|r>|<cwith|1|-1|3|3|cell-halign|r>|<table|<row|<\cell>
+      当前像素
+    </cell>|<\cell>
+      <code*|err>
+    </cell>|<\cell>
+      <code*|e2>
+    </cell>|<\cell>
+      本轮移动
+    </cell>>|<row|<\cell>
+      <code*|(0,0)>
+    </cell>|<\cell>
+      4
+    </cell>|<\cell>
+      8
+    </cell>|<\cell>
+      只推进 x
+    </cell>>|<row|<\cell>
+      <code*|(1,0)>
+    </cell>|<\cell>
+      3
+    </cell>|<\cell>
+      6
+    </cell>|<\cell>
+      只推进 x
+    </cell>>|<row|<\cell>
+      <code*|(2,0)>
+    </cell>|<\cell>
+      2
+    </cell>|<\cell>
+      4
+    </cell>|<\cell>
+      同时推进 x、y
+    </cell>>|<row|<\cell>
+      <code*|(3,1)>
+    </cell>|<\cell>
+      6
+    </cell>|<\cell>
+      12
+    </cell>|<\cell>
+      只推进 x
+    </cell>>|<row|<\cell>
+      <code*|(4,1)>
+    </cell>|<\cell>
+      5
+    </cell>|<\cell>
+      10
+    </cell>|<\cell>
+      只推进 x
+    </cell>>|<row|<\cell>
+      <code*|(5,1)>
+    </cell>|<\cell>
+      4
+    </cell>|<\cell>
+      —
+    </cell>|<\cell>
+      到达终点
+    </cell>>>>
+  </block>
+
+  最终像素：
+
+  <\code>
+    (0,0) (1,0) (2,0) (3,1) (4,1) (5,1)
+  </code>
+
+  <subsection*|9. 为什么不能把两个阈值都换成 0？>
+
+  下面的写法与标准算法不等价：
+
+  <\cpp-code>
+    if (err \>= 0) {
+
+    \ \ \ \ err -= dy;
+
+    \ \ \ \ x += sx;
+
+    }
+
+    if (err \<less\>= 0) {
+
+    \ \ \ \ err += dx;
+
+    \ \ \ \ y += sy;
+
+    }
+  </cpp-code>
+
+  它同时改变了：
+
+  <\enumerate>
+    <item>判断阈值。
+
+    <item>第二个判断所使用的误差时刻。
+  </enumerate>
+
+  对于 <code*|(0,0) → (5,1)>，它会选中 <code*|(3,0)>，而不是 <code*|(3,1)>。
+
+  理想直线在 <code*|x=3> 时的高度是 <code*|0.6>，显然 <code*|(3,1)> 更近。因此这不是平局处理方式不同，而是选点有误。
+
+  <hrule>
+
+  <section*|三、Bresenham 画圆>
+
+  <subsection*|1. 利用八重对称性>
+
+  设圆心在原点，半径为非负整数 r：
+
+  <equation*|x<rsup|2>+y<rsup|2>=r<rsup|2>>
+
+  只需计算从 <math|(0,r)> 到 <math|x=y> 附近的八分之一圆弧。
+
+  这一段圆弧比较平缓。每次 x 增加 1，y 保持不变或减 1，因此候选像素为：
+
+  <equation*|E=(x+1,y),<space|2em>SE=(x+1,y-1)>
+
+  每算出一个 <math|(x,y)>，即可绘制八个对称点：
+
+  <equation*|(±x,±y),<space|2em>(±y,±x)>
+
+  圆心为 <math|(c<rsub|x>,c<rsub|y>)> 时，将这些坐标加上圆心即可。
+
+  <subsection*|2. 定义圆函数>
+
+  令：
+
+  <equation*|<boxed|F(u,v)=u<rsup|2>+v<rsup|2>-r<rsup|2>>>
+
+  则：
+
+  <\itemize>
+    <item><math|F\<less\>0>：点在圆内。
+
+    <item><math|F=0>：点在圆上。
+
+    <item><math|F\>0>：点在圆外。
+  </itemize>
+
+  注意，F 是“到圆心距离的平方减去半径平方”，不是到圆周的实际距离。
+
+  <subsection*|3. 用中点选择像素>
+
+  两个候选的中点是：
+
+  <equation*|M=<left|(>x+1,y-<frac|1|2><right|)>>
+
+  定义：
+
+  <equation*|<boxed|q=F(M) =(x+1)<rsup|2>+<left|(>y-<frac|1|2><right|)><rsup|2>-r<rsup|2>>>
+
+  判断规则为：
+
+  <\block>
+    <tformat|<cwith|1|-1|1|-1|cell-hyphen|t>|<twith|table-hyphen|y>|<twith|table-width|1par>|<twith|table-hmode|exact>|<table|<row|<\cell>
+      条件
+    </cell>|<\cell>
+      几何含义
+    </cell>|<\cell>
+      选择
+    </cell>>|<row|<\cell>
+      <math|q\<less\>0>
+    </cell>|<\cell>
+      中点在圆内，圆弧位于中点上方
+    </cell>|<\cell>
+      E，y 不变
+    </cell>>|<row|<\cell>
+      <math|q\>0>
+    </cell>|<\cell>
+      中点在圆外，圆弧位于中点下方
+    </cell>|<\cell>
+      SE，y 减 1
+    </cell>>>>
+  </block>
+
+  这里比较的是同一列中两个候选像素的纵向偏差。
+
+  <subsection*|4. 中点圆算法的整数形式：<code*|p = 1-r>>
+
+  起点为 <math|(0,r)>，所以：
+
+  <equation*|q<rsub|0>=1+<left|(>r-<frac|1|2><right|)><rsup|2>-r<rsup|2> =<frac|5|4>-r>
+
+  定义整数判断量：
+
+  <equation*|<boxed|p=q-<frac|1|4>>>
+
+  于是：
+
+  <equation*|<boxed|p<rsub|0>=1-r>>
+
+  由于整数坐标下 q 总是“整数加 <math|1/4>”：
+
+  <equation*|q\<less\>0⟺p\<less\>0,<space|2em>q\>0⟺p≥0>
+
+  因此减去 <math|1/4> 不会改变像素选择。特别地，<with|font-series|bold|p 等于 0 时，q 等于 <math|1/4>，应选择 SE。>
+
+  <subsection*|5. 推导增量更新>
+
+  以下公式中的 x、y 都是<with|font-series|bold|移动前的坐标>。
+
+  <subsubsection*|选择 E：新像素为 <code*|(x+1,y)>>
+
+  下一轮的中点变为：
+
+  <equation*|M'=<left|(>x+2,y-<frac|1|2><right|)>>
+
+  因此：
+
+  <equation*|Δp=(x+2)<rsup|2>-(x+1)<rsup|2>=2x+3>
+
+  即：
+
+  <equation*|<boxed|p←p+2x+3>>
+
+  <subsubsection*|选择 SE：新像素为 <code*|(x+1,y-1)>>
+
+  下一轮的中点变为：
+
+  <equation*|M'=<left|(>x+2,y-<frac|3|2><right|)>>
+
+  因此：
+
+  <eqnarray*|<tformat|<table|<row|<cell|Δp>|<cell|=(x+2)<rsup|2>-(x+1)<rsup|2>>>|<row|<cell|>|<cell|<space|1em>+<left|(>y-<frac|3|2><right|)><rsup|2> -<left|(>y-<frac|1|2><right|)><rsup|2>>>|<row|<cell|>|<cell|=>|<cell|2(x-y)+5>>>>>
+
+  即：
+
+  <equation*|<boxed|p←p+2(x-y)+5>>
+
+  核心循环为：
+
+  <\cpp-code>
+    int x = 0;
+
+    int y = r;
+
+    int p = 1 - r;
+
+    \;
+
+    while (x \<less\>= y) {
+
+    \ \ \ \ plot8(cx, cy, x, y);
+
+    \;
+
+    \ \ \ \ if (p \<less\> 0) {
+
+    \ \ \ \ \ \ \ \ p += 2 * x + 3;
+
+    \ \ \ \ } else {
+
+    \ \ \ \ \ \ \ \ p += 2 * (x - y) + 5;
+
+    \ \ \ \ \ \ \ \ --y;
+
+    \ \ \ \ }
+
+    \ \ \ \ ++x;
+
+    }
+  </cpp-code>
+
+  <subsection*|6. Bresenham 形式：为什么是 <code*|d = 3-2r>？>
+
+  常见的 Bresenham 圆算法定义另一判断量：
+
+  <equation*|<boxed|d=F(E)+F(SE)>>
+
+  在起点 <math|(0,r)>：
+
+  <equation*|F(E)=F(1,r)=1>
+
+  <equation*|F(SE)=F(1,r-1)=2-2r>
+
+  所以：
+
+  <equation*|<boxed|d<rsub|0>=3-2r>>
+
+  展开 d 可得：
+
+  <equation*|d=2(x+1)<rsup|2>+2y<rsup|2>-2y+1-2r<rsup|2>>
+
+  而：
+
+  <equation*|p=(x+1)<rsup|2>+y<rsup|2>-y-r<rsup|2>>
+
+  因此：
+
+  <equation*|<boxed|d=2p+1>>
+
+  由于 p 是整数：
+
+  <equation*|p\<less\>0⟺d\<less\>0,<space|2em>p≥0⟺d\>0>
+
+  所以两种形式选择完全相同的像素。d 始终是奇数，不会等于 0。
+
+  同时，d 的变化量是 p 的两倍：
+
+  <\block>
+    <tformat|<cwith|1|-1|1|-1|cell-hyphen|t>|<twith|table-hyphen|y>|<twith|table-width|1par>|<twith|table-hmode|exact>|<table|<row|<\cell>
+      项目
+    </cell>|<\cell>
+      中点形式 p
+    </cell>|<\cell>
+      Bresenham 形式 d
+    </cell>>|<row|<\cell>
+      初始化
+    </cell>|<\cell>
+      <code*|1 - r>
+    </cell>|<\cell>
+      <code*|3 - 2*r>
+    </cell>>|<row|<\cell>
+      选择 E
+    </cell>|<\cell>
+      <code*|p \<less\> 0>
+    </cell>|<\cell>
+      <code*|d \<less\> 0>
+    </cell>>|<row|<\cell>
+      选择 E 后增加
+    </cell>|<\cell>
+      <code*|2*x + 3>
+    </cell>|<\cell>
+      <code*|4*x + 6>
+    </cell>>|<row|<\cell>
+      选择 SE 后增加
+    </cell>|<\cell>
+      <code*|2*(x-y) + 5>
+    </cell>|<\cell>
+      <code*|4*(x-y) + 10>
+    </cell>>>>
+  </block>
+
+  <with|font-series|bold|初始化、判断规则和增量公式必须配套使用，不能只替换初始值。>
+
+  <subsection*|7. 完整代码>
+
+  <\cpp-code>
+    void plot8(int cx, int cy, int x, int y)
+
+    {
+
+    \ \ \ \ setPixel(cx + x, cy + y);
+
+    \ \ \ \ setPixel(cx - x, cy + y);
+
+    \ \ \ \ setPixel(cx + x, cy - y);
+
+    \ \ \ \ setPixel(cx - x, cy - y);
+
+    \;
+
+    \ \ \ \ setPixel(cx + y, cy + x);
+
+    \ \ \ \ setPixel(cx - y, cy + x);
+
+    \ \ \ \ setPixel(cx + y, cy - x);
+
+    \ \ \ \ setPixel(cx - y, cy - x);
+
+    }
+
+    \;
+
+    void plotCircle(int cx, int cy, int r)
+
+    {
+
+    \ \ \ \ if (r \<less\> 0)
+
+    \ \ \ \ \ \ \ \ return;
+
+    \;
+
+    \ \ \ \ int x = 0;
+
+    \ \ \ \ int y = r;
+
+    \ \ \ \ int d = 3 - 2 * r;
+
+    \;
+
+    \ \ \ \ while (x \<less\>= y) {
+
+    \ \ \ \ \ \ \ \ plot8(cx, cy, x, y);
+
+    \;
+
+    \ \ \ \ \ \ \ \ if (d \<less\> 0) {
+
+    \ \ \ \ \ \ \ \ \ \ \ \ d += 4 * x + 6;
+
+    \ \ \ \ \ \ \ \ } else {
+
+    \ \ \ \ \ \ \ \ \ \ \ \ d += 4 * (x - y) + 10;
+
+    \ \ \ \ \ \ \ \ \ \ \ \ --y;
+
+    \ \ \ \ \ \ \ \ }
+
+    \;
+
+    \ \ \ \ \ \ \ \ ++x;
+
+    \ \ \ \ }
+
+    }
+  </cpp-code>
+
+  使用时注意：
+
+  <\itemize>
+    <item><code*|x \<less\>= y> 保证包含对角线上的点；越过对角线后，剩余圆弧由对称性覆盖。
+
+    <item>增量使用旧的 x、y，所以应先更新 d，再修改坐标。
+
+    <item>对称轴上的点会重复绘制；普通像素赋值不受影响，但透明混合或计数时需要去重。
+
+    <item>r 为 0 时，只会绘制圆心，虽然上述实现会重复赋值。
+  </itemize>
+
+  <subsection*|8. 示例：半径 <code*|r=5>>
+
+  初始化：
+
+  <equation*|x=0,<space|2em>y=5,<space|2em>d=3-10=-7>
+
+  <\block>
+    <tformat|<cwith|1|-1|1|-1|cell-hyphen|t>|<twith|table-hyphen|y>|<twith|table-width|1par>|<twith|table-hmode|exact>|<cwith|1|-1|2|2|cell-halign|r>|<cwith|1|-1|4|4|cell-halign|r>|<table|<row|<\cell>
+      当前像素
+    </cell>|<\cell>
+      d
+    </cell>|<\cell>
+      选择
+    </cell>|<\cell>
+      更新后的 d
+    </cell>|<\cell>
+      下一像素
+    </cell>>|<row|<\cell>
+      <code*|(0,5)>
+    </cell>|<\cell>
+      -7
+    </cell>|<\cell>
+      E
+    </cell>|<\cell>
+      -1
+    </cell>|<\cell>
+      <code*|(1,5)>
+    </cell>>|<row|<\cell>
+      <code*|(1,5)>
+    </cell>|<\cell>
+      -1
+    </cell>|<\cell>
+      E
+    </cell>|<\cell>
+      9
+    </cell>|<\cell>
+      <code*|(2,5)>
+    </cell>>|<row|<\cell>
+      <code*|(2,5)>
+    </cell>|<\cell>
+      9
+    </cell>|<\cell>
+      SE
+    </cell>|<\cell>
+      7
+    </cell>|<\cell>
+      <code*|(3,4)>
+    </cell>>|<row|<\cell>
+      <code*|(3,4)>
+    </cell>|<\cell>
+      7
+    </cell>|<\cell>
+      SE
+    </cell>|<\cell>
+      13
+    </cell>|<\cell>
+      <code*|(4,3)>
+    </cell>>>>
+  </block>
+
+  到达 <code*|(4,3)> 时已有 <code*|x \> y>，不再绘制这一八分之一圆弧。它对应的对称点已由 <code*|(3,4)> 覆盖。
+
+  实际计算的基本点为：
+
+  <\code>
+    (0,5) (1,5) (2,5) (3,4)
+  </code>
+
+  再通过八重对称得到整个圆。
+
+  <hrule>
+
+  <section*|四、两种算法的联系与区别>
+
+  <\block>
+    <tformat|<cwith|1|-1|1|-1|cell-hyphen|t>|<twith|table-hyphen|y>|<twith|table-width|1par>|<twith|table-hmode|exact>|<table|<row|<\cell>
+      比较项
+    </cell>|<\cell>
+      直线
+    </cell>|<\cell>
+      圆
+    </cell>>|<row|<\cell>
+      隐式方程
+    </cell>|<\cell>
+      <math|\<mathd\>x y-dy x=0>
+    </cell>|<\cell>
+      <math|x<rsup|2>+y<rsup|2>-r<rsup|2>=0>
+    </cell>>|<row|<\cell>
+      选择依据
+    </cell>|<\cell>
+      理想直线在候选中点哪一侧
+    </cell>|<\cell>
+      候选中点在圆内还是圆外
+    </cell>>|<row|<\cell>
+      主要方向
+    </cell>|<\cell>
+      根据斜率自动表现为 x 或 y
+    </cell>|<\cell>
+      基本圆弧中始终推进 x
+    </cell>>|<row|<\cell>
+      另一方向
+    </cell>|<\cell>
+      不变或推进一步
+    </cell>|<\cell>
+      y 不变或减少一步
+    </cell>>|<row|<\cell>
+      判断量更新
+    </cell>|<\cell>
+      加减固定的 dx、dy
+    </cell>|<\cell>
+      加上关于当前 x、y 的一次式
+    </cell>>|<row|<\cell>
+      对称性
+    </cell>|<\cell>
+      用 <code*|sx>、<code*|sy> 处理方向
+    </cell>|<\cell>
+      计算八分之一，再生成对称点
+    </cell>>|<row|<\cell>
+      时间复杂度
+    </cell>|<\cell>
+      <math|O(max (\<mathd\>x,dy)+1)>
+    </cell>|<\cell>
+      <math|O(r+1)>
+    </cell>>|<row|<\cell>
+      额外空间
+    </cell>|<\cell>
+      <math|O(1)>
+    </cell>|<\cell>
+      <math|O(1)>
+    </cell>>>>
+  </block>
+
+  直线方程是一次式，移动一步后的差分是常数；圆方程是二次式，移动一步后的差分是一次式。因此它们都能避免逐点重新计算原方程。
+
+  以上代码假设坐标及中间运算不会超出 <code*|int> 范围；较大坐标应使用足够宽的整数类型，并在做差之前完成类型转换。
+</body>
+
+<\initial>
+  <\collection>
+    <associate|page-screen-margin|false>
+    <associate|stem-doc-id|F4546BE2-AE13-4910-8859-A8EA1DF15C30>
+  </collection>
+</initial>
+
+<\references>
+  <\collection>
+    <associate|auto-1|<tuple|?|?>>
+    <associate|auto-10|<tuple|?|?>>
+    <associate|auto-11|<tuple|?|?>>
+    <associate|auto-12|<tuple|?|?>>
+    <associate|auto-13|<tuple|?|?>>
+    <associate|auto-14|<tuple|?|?>>
+    <associate|auto-15|<tuple|?|?>>
+    <associate|auto-16|<tuple|?|?>>
+    <associate|auto-17|<tuple|?|?>>
+    <associate|auto-18|<tuple|?|?>>
+    <associate|auto-19|<tuple|?|?>>
+    <associate|auto-2|<tuple|?|?>>
+    <associate|auto-20|<tuple|?|?>>
+    <associate|auto-21|<tuple|?|?>>
+    <associate|auto-22|<tuple|?|?>>
+    <associate|auto-23|<tuple|?|?>>
+    <associate|auto-24|<tuple|?|?>>
+    <associate|auto-25|<tuple|?|?>>
+    <associate|auto-26|<tuple|?|?>>
+    <associate|auto-27|<tuple|?|?>>
+    <associate|auto-28|<tuple|?|?>>
+    <associate|auto-3|<tuple|?|?>>
+    <associate|auto-4|<tuple|?|?>>
+    <associate|auto-5|<tuple|?|?>>
+    <associate|auto-6|<tuple|?|?>>
+    <associate|auto-7|<tuple|?|?>>
+    <associate|auto-8|<tuple|?|?>>
+    <associate|auto-9|<tuple|?|?>>
+  </collection>
+</references>
+
+<\auxiliary>
+  <\collection>
+    <\associate|toc>
+      <vspace*|2fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-size|<quote|1.19>|<locus|<id|%1E3B40FD1B8-1E449B87458-3F6C9B27>|<link|hyperlink|<id|%1E3B40FD1B8-1E449B87458-3F6C9B27>|<url|#auto-1>>|Bresenham 画直线与画圆算法笔记>><vspace|1fn>
+
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3B40FD1B8-1E44A25BDE8-49468931>|<link|hyperlink|<id|%1E3B40FD1B8-1E44A25BDE8-49468931>|<url|#auto-2>>|一、核心思想>><vspace|0.5fn>
+
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3B40FD1B8-1E44A244060-49468931>|<link|hyperlink|<id|%1E3B40FD1B8-1E44A244060-49468931>|<url|#auto-3>>|二、Bresenham 画直线>><vspace|0.5fn>
+
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3B40FD1B8-1E44A23A010--790CE4F>|<link|hyperlink|<id|%1E3B40FD1B8-1E44A23A010--790CE4F>|<url|#auto-4>>|1. 将任意方向归一化>>
+
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3B40FD1B8-1E44A2AAB68--790CE4F>|<link|hyperlink|<id|%1E3B40FD1B8-1E44A2AAB68--790CE4F>|<url|#auto-5>>|2. 定义偏差>>
+
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3B40FD1B8-1E44A2E5D68--790CE4F>|<link|hyperlink|<id|%1E3B40FD1B8-1E44A2E5D68--790CE4F>|<url|#auto-6>>|3. 平缓直线：每列选择一个像素>>
+
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3B40FD1B8-1E449B87E90--790CE4F>|<link|hyperlink|<id|%1E3B40FD1B8-1E449B87E90--790CE4F>|<url|#auto-7>>|4. 陡峭直线：每行选择一个像素>>
+
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3B40FD1B8-1E44A324CD0--790CE4F>|<link|hyperlink|<id|%1E3B40FD1B8-1E44A324CD0--790CE4F>|<url|#auto-8>>|5. 引入 <with|font-family|<quote|tt>|err>，统一两种情况>>
+
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3B40FD1B8-1E449B46AD0--790CE4F>|<link|hyperlink|<id|%1E3B40FD1B8-1E449B46AD0--790CE4F>|<url|#auto-9>>|6. 为什么不必先判断平缓还是陡峭？>>
+
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3B40FD1B8-1E44A3BA9F8--EE108B>|<link|hyperlink|<id|%1E3B40FD1B8-1E44A3BA9F8--EE108B>|<url|#auto-10>>|平缓时，推进 x 的条件必定成立>>
+
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3B40FD1B8-1E44A3B2DF8--EE108B>|<link|hyperlink|<id|%1E3B40FD1B8-1E44A3B2DF8--EE108B>|<url|#auto-11>>|陡峭时，推进 y 的条件必定成立>>
+
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3B40FD1B8-1E44A351EC0--790CE4F>|<link|hyperlink|<id|%1E3B40FD1B8-1E44A351EC0--790CE4F>|<url|#auto-12>>|7. 完整代码>>
+
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3B40FD1B8-1E44A3E2940--EE108B>|<link|hyperlink|<id|%1E3B40FD1B8-1E44A3E2940--EE108B>|<url|#auto-13>>|为什么必须保存 <with|font-family|<quote|tt>|e2>？>>
+
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3B40FD1B8-1E44A3ED5C8--EE108B>|<link|hyperlink|<id|%1E3B40FD1B8-1E44A3ED5C8--EE108B>|<url|#auto-14>>|为什么不能使用 <with|font-family|<quote|tt>|else if>？>>
+
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3B40FD1B8-1E44A411D10--790CE4F>|<link|hyperlink|<id|%1E3B40FD1B8-1E44A411D10--790CE4F>|<url|#auto-15>>|8. 示例：从 <with|font-family|<quote|tt>|(0,0)> 到 <with|font-family|<quote|tt>|(5,1)>>>
+
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3B40FD1B8-1E44A411778--790CE4F>|<link|hyperlink|<id|%1E3B40FD1B8-1E44A411778--790CE4F>|<url|#auto-16>>|9. 为什么不能把两个阈值都换成 0？>>
+
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3B40FD1B8-1E44A463DD0-49468931>|<link|hyperlink|<id|%1E3B40FD1B8-1E44A463DD0-49468931>|<url|#auto-17>>|三、Bresenham 画圆>><vspace|0.5fn>
+
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3B40FD1B8-1E44A4EAF60--790CE4F>|<link|hyperlink|<id|%1E3B40FD1B8-1E44A4EAF60--790CE4F>|<url|#auto-18>>|1. 利用八重对称性>>
+
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3B40FD1B8-1E44B1319F0--790CE4F>|<link|hyperlink|<id|%1E3B40FD1B8-1E44B1319F0--790CE4F>|<url|#auto-19>>|2. 定义圆函数>>
+
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3B40FD1B8-1E44B177470--790CE4F>|<link|hyperlink|<id|%1E3B40FD1B8-1E44B177470--790CE4F>|<url|#auto-20>>|3. 用中点选择像素>>
+
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3B40FD1B8-1E44B192898--790CE4F>|<link|hyperlink|<id|%1E3B40FD1B8-1E44B192898--790CE4F>|<url|#auto-21>>|4. 中点圆算法的整数形式：<with|font-family|<quote|tt>|p = 1-r>>>
+
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3B40FD1B8-1E44B1B06C0--790CE4F>|<link|hyperlink|<id|%1E3B40FD1B8-1E44B1B06C0--790CE4F>|<url|#auto-22>>|5. 推导增量更新>>
+
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3B40FD1B8-1E44B1B2FB0--EE108B>|<link|hyperlink|<id|%1E3B40FD1B8-1E44B1B2FB0--EE108B>|<url|#auto-23>>|选择 E：新像素为 <with|font-family|<quote|tt>|(x+1,y)>>>
+
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3B40FD1B8-1E44B1BCA38--EE108B>|<link|hyperlink|<id|%1E3B40FD1B8-1E44B1BCA38--EE108B>|<url|#auto-24>>|选择 SE：新像素为 <with|font-family|<quote|tt>|(x+1,y-1)>>>
+
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3B40FD1B8-1E44B2045F0--790CE4F>|<link|hyperlink|<id|%1E3B40FD1B8-1E44B2045F0--790CE4F>|<url|#auto-25>>|6. Bresenham 形式：为什么是 <with|font-family|<quote|tt>|d = 3-2r>？>>
+
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3B40FD1B8-1E44B2513D0--790CE4F>|<link|hyperlink|<id|%1E3B40FD1B8-1E44B2513D0--790CE4F>|<url|#auto-26>>|7. 完整代码>>
+
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3B40FD1B8-1E44B284ED0--790CE4F>|<link|hyperlink|<id|%1E3B40FD1B8-1E44B284ED0--790CE4F>|<url|#auto-27>>|8. 示例：半径 <with|font-family|<quote|tt>|r=5>>>
+
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3B40FD1B8-1E44B290EC0-49468931>|<link|hyperlink|<id|%1E3B40FD1B8-1E44B290EC0-49468931>|<url|#auto-28>>|四、两种算法的联系与区别>><vspace|0.5fn>
+    </associate>
+  </collection>
+</auxiliary>

@@ -14,515 +14,431 @@
   </author-affiliation>>>>
 
   <\table-of-contents|toc>
-    <vspace*|2fn><with|font-series|bold|math-font-series|bold|font-size|1.19|<locus|<id|%23F54A629F8-23F54365BE8-3F6C9B27>|<link|hyperlink|<id|%23F54A629F8-23F54365BE8-3F6C9B27>|<url|#auto-1>>|LESSON ONE 0914早八>><vspace|1fn>
+    <vspace*|2fn><with|font-series|bold|math-font-series|bold|font-size|1.19|<locus|<id|%1E3CEDFD288-1E4030F61C0-3F6C9B27>|<link|hyperlink|<id|%1E3CEDFD288-1E4030F61C0-3F6C9B27>|<url|#auto-1>>|LESSON ONE 0914早八>><vspace|1fn>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D169BB8-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D169BB8-49468931>|<url|#auto-2>>|一、课程导入>><vspace|0.5fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D5156F30-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5156F30-49468931>|<url|#auto-2>>|二、显示设备的发展>><vspace|0.5fn>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5CE031B0-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5CE031B0-49468931>|<url|#auto-3>>|二、显示设备的发展>><vspace|0.5fn>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3C6EB1500--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3C6EB1500--790CE4F>|<url|#auto-3>>|2.1 早期显示设备：从数码管到CRT>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5C0A9D78--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5C0A9D78--790CE4F>|<url|#auto-4>>|2.1 早期显示设备：从数码管到CRT>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D51471E8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51471E8--790CE4F>|<url|#auto-4>>|2.2 CRT显示器：从矢量显示到二维光栅显示>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D81F150--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D81F150--790CE4F>|<url|#auto-5>>|2.2 CRT显示器：从矢量显示到二维光栅显示>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3C6EBEE30--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3C6EBEE30--790CE4F>|<url|#auto-5>>|2.3 彩色显示与颜色空间>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D20BE78--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D20BE78--790CE4F>|<url|#auto-6>>|2.3 彩色显示与颜色空间>>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E3D51B9BC0--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51B9BC0--EE108B>|<url|#auto-6>>|（1）RGB颜色空间>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D1F01E0--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D1F01E0--EE108B>|<url|#auto-7>>|（1）RGB颜色空间>>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E3D5139108--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5139108--EE108B>|<url|#auto-7>>|（2）HSV颜色空间>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D20D108--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D20D108--EE108B>|<url|#auto-8>>|（2）HSV颜色空间>>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E3D51F40A8--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51F40A8--EE108B>|<url|#auto-8>>|（3）色域与人眼可见范围>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D229498--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D229498--EE108B>|<url|#auto-9>>|（3）色域与人眼可见范围>>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E3D52215F8--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D52215F8--EE108B>|<url|#auto-9>>|（4）伽马校正与颜色位深>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D1F01E0--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D1F01E0--EE108B>|<url|#auto-10>>|（4）伽马校正与颜色位深>>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E3D508F3B0--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D508F3B0--EE108B>|<url|#auto-10>>|（5）CMYK色彩空间>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D23B100--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D23B100--790CE4F>|<url|#auto-11>>|2.4 LCD液晶显示器>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E40EE76D20--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E40EE76D20--790CE4F>|<url|#auto-11>>|2.4 LCD液晶显示器>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D14FBC8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D14FBC8--790CE4F>|<url|#auto-12>>|2.5 OLED有机发光显示器>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E4031A7E88--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E4031A7E88--790CE4F>|<url|#auto-12>>|2.5 OLED有机发光显示器>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D069B60--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D069B60--790CE4F>|<url|#auto-13>>|2.6 色域标准>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E4033C49E8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E4033C49E8--790CE4F>|<url|#auto-13>>|2.6 色域标准>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CEEB168--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CEEB168--790CE4F>|<url|#auto-14>>|2.7 分辨率的发展>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D51B2A18--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51B2A18--790CE4F>|<url|#auto-14>>|2.7 分辨率的发展>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D27B7F0--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D27B7F0--790CE4F>|<url|#auto-15>>|2.8 立体显示技术展望>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D593D2C8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D593D2C8--790CE4F>|<url|#auto-15>>|2.8 立体显示技术展望>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5C1259D8--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5C1259D8--EE108B>|<url|#auto-16>>|（1）双目视觉原理>>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E3CECBB3A8--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3CECBB3A8--EE108B>|<url|#auto-16>>|（1）双目视觉原理>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D2295C0--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D2295C0--EE108B>|<url|#auto-17>>|（2）偏振3D与头显技术>>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E4031A9B08--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E4031A9B08--EE108B>|<url|#auto-17>>|（2）偏振3D与头显技术>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D3D4DD8--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D3D4DD8--EE108B>|<url|#auto-18>>|（3）AR/VR/MR>>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E40303C838--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E40303C838--EE108B>|<url|#auto-18>>|（3）AR/VR/MR>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D3D0620--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D3D0620--EE108B>|<url|#auto-19>>|（4）裸眼3D与全息显示>>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E40EDB50A8--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E40EDB50A8--EE108B>|<url|#auto-19>>|（4）裸眼3D与全息显示>>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D286850-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D286850-49468931>|<url|#auto-20>>|三、色彩在可视化中的应用>><vspace|0.5fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E403191110-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E403191110-49468931>|<url|#auto-20>>|三、色彩在可视化中的应用>><vspace|0.5fn>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D7F1A50-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D7F1A50-49468931>|<url|#auto-21>>|四、图像的定义与表达>><vspace|0.5fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E4031A25B8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E4031A25B8-49468931>|<url|#auto-21>>|四、图像的定义与表达>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D3BFBE8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D3BFBE8--790CE4F>|<url|#auto-22>>|4.1 图像的数学定义：连续与离散>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E4031B3070--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E4031B3070--790CE4F>|<url|#auto-22>>|4.1 图像的数学定义：连续与离散>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D3BF040--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D3BF040--790CE4F>|<url|#auto-23>>|4.2 矢量图与光栅图>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E403664BF0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E403664BF0--790CE4F>|<url|#auto-23>>|4.2 矢量图与光栅图>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D3BCB90--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D3BCB90--EE108B>|<url|#auto-24>>|（1）矢量图>>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E4031A4410--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E4031A4410--EE108B>|<url|#auto-24>>|（1）矢量图>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D3BBDB0--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D3BBDB0--EE108B>|<url|#auto-25>>|（2）光栅图（位图）>>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E3D5109148--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5109148--EE108B>|<url|#auto-25>>|（2）光栅图（位图）>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D3B9E80--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D3B9E80--EE108B>|<url|#auto-26>>|（3）两者的对比>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D59D2088-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D59D2088-49468931>|<url|#auto-26>>|五、帧缓冲区与GPU基础>><vspace|0.5fn>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D3C1250-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D3C1250-49468931>|<url|#auto-27>>|五、帧缓冲区与GPU基础>><vspace|0.5fn>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E40319B990--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E40319B990--790CE4F>|<url|#auto-27>>|5.1 GPU的诞生与图形管线>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D3D5AB8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D3D5AB8--790CE4F>|<url|#auto-28>>|5.1 GPU的诞生与图形管线>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E4030F4618--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E4030F4618--790CE4F>|<url|#auto-28>>|5.2 帧缓冲区（Frame Buffer）>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D3C09C0--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D3C09C0--790CE4F>|<url|#auto-29>>|5.2 帧缓冲区（Frame Buffer）>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E402D2B9E0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E402D2B9E0--790CE4F>|<url|#auto-29>>|5.3 图像存储格式>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D1C93A8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D1C93A8--790CE4F>|<url|#auto-30>>|5.3 图像存储格式>>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E4035328F8--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E4035328F8--EE108B>|<url|#auto-30>>|（1）调色板格式（GIF）>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D3CCE38--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D3CCE38--EE108B>|<url|#auto-31>>|（1）调色板格式（GIF）>>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E403113E60--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E403113E60--EE108B>|<url|#auto-31>>|（2）其他常见格式>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D1C4638--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D1C4638--EE108B>|<url|#auto-32>>|（2）其他常见格式>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D51B8148--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51B8148--790CE4F>|<url|#auto-32>>|5.4 Alpha通道与图像合成>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F543F6FA0--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F543F6FA0--790CE4F>|<url|#auto-33>>|5.4 Alpha通道与图像合成>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D51B8428--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51B8428--790CE4F>|<url|#auto-33>>|5.5 深度缓冲（Z-Buffer）>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5C0CF080--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5C0CF080--790CE4F>|<url|#auto-34>>|5.5 深度缓冲（Z-Buffer）>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D73A6F48--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D73A6F48--790CE4F>|<url|#auto-34>>|5.6 双缓冲区>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CF74E48--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CF74E48--790CE4F>|<url|#auto-35>>|5.6 双缓冲区>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D51FFD98-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51FFD98-49468931>|<url|#auto-35>>|六、图像处理概述与课程预告>><vspace|0.5fn>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F543FAAF8-49468931>|<link|hyperlink|<id|%23F54A629F8-23F543FAAF8-49468931>|<url|#auto-36>>|六、图像处理概述与课程预告>><vspace|0.5fn>
+    <vspace*|2fn><with|font-series|bold|math-font-series|bold|font-size|1.19|<locus|<id|%1E3CEDFD288-1E3D73A85C8-3F6C9B27>|<link|hyperlink|<id|%1E3CEDFD288-1E3D73A85C8-3F6C9B27>|<url|#auto-36>>|LESSON 2 0915早十>><vspace|1fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D3A0390--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D3A0390--790CE4F>|<url|#auto-37>>|课程预告>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E4031135C0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E4031135C0-49468931>|<url|#auto-37>>|图像处理：抖动、量化、滤波、边缘提取、补全与抠图>><vspace|0.5fn>
 
-    <vspace*|2fn><with|font-series|bold|math-font-series|bold|font-size|1.19|<locus|<id|%23F54A629F8-23F5D39BCF0-3F6C9B27>|<link|hyperlink|<id|%23F54A629F8-23F5D39BCF0-3F6C9B27>|<url|#auto-38>>|LESSON 2 0915早十>><vspace|1fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E402E384B8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E402E384B8-49468931>|<url|#auto-38>>|一、图像处理引入>><vspace|0.5fn>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D182690-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D182690-49468931>|<url|#auto-39>>|图像处理：抖动、量化、滤波、边缘提取、补全与抠图>><vspace|0.5fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D748D0D8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D748D0D8-49468931>|<url|#auto-39>>|二、抖动与量化>><vspace|0.5fn>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D3A4E08-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D3A4E08-49468931>|<url|#auto-40>>|一、图像处理引入>><vspace|0.5fn>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E403106818--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E403106818--790CE4F>|<url|#auto-40>>|1. 背景>>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D39E3E0-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D39E3E0-49468931>|<url|#auto-41>>|二、抖动与量化>><vspace|0.5fn>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E4030951F0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E4030951F0--790CE4F>|<url|#auto-41>>|2. 直接二值化的问题>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D1BAC70--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D1BAC70--790CE4F>|<url|#auto-42>>|1. 背景>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D4F02788--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4F02788--790CE4F>|<url|#auto-42>>|3. 抖动的思想>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D17EF58--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D17EF58--790CE4F>|<url|#auto-43>>|2. 直接二值化的问题>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E403081228-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E403081228-49468931>|<url|#auto-43>>|三、白噪声与蓝噪声>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D1B9A40--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D1B9A40--790CE4F>|<url|#auto-44>>|3. 抖动的思想>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E4030821E8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E4030821E8-49468931>|<url|#auto-44>>|四、滤波与模糊>><vspace|0.5fn>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D2394A0-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D2394A0-49468931>|<url|#auto-45>>|三、白噪声与蓝噪声>><vspace|0.5fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E40302CBB8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E40302CBB8-49468931>|<url|#auto-45>>|五、有序抖动与空间换颜色>><vspace|0.5fn>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D22C928-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D22C928-49468931>|<url|#auto-46>>|四、滤波与模糊>><vspace|0.5fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E4030FB4A8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E4030FB4A8-49468931>|<url|#auto-46>>|六、Floyd-Steinberg 抖动>><vspace|0.5fn>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D27D410-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D27D410-49468931>|<url|#auto-47>>|五、有序抖动与空间换颜色>><vspace|0.5fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E40306EF58-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E40306EF58-49468931>|<url|#auto-47>>|七、图像滤波与卷积<with|font-shape|italic|image filtering>>><vspace|0.5fn>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5DE762D0-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5DE762D0-49468931>|<url|#auto-48>>|六、Floyd-Steinberg 抖动>><vspace|0.5fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E402D1C730-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E402D1C730-49468931>|<url|#auto-48>>|八、边缘提取、Sobel 与拉普拉斯>><vspace|0.5fn>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D216DD8-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D216DD8-49468931>|<url|#auto-49>>|七、图像滤波与卷积<with|font-shape|italic|image filtering>>><vspace|0.5fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D7F28AF0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F28AF0-49468931>|<url|#auto-49>>|九、频率的直观理解>><vspace|0.5fn>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5DB05408-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5DB05408-49468931>|<url|#auto-50>>|八、边缘提取、Sobel 与拉普拉斯>><vspace|0.5fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D5930A80-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5930A80-49468931>|<url|#auto-50>>|十、图像补全与拉普拉斯编辑>><vspace|0.5fn>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5436C7D8-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5436C7D8-49468931>|<url|#auto-51>>|九、频率的直观理解>><vspace|0.5fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D7270C00-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7270C00-49468931>|<url|#auto-51>>|十一、图像克隆、融合与泊松编辑>><vspace|0.5fn>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D2E7418-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D2E7418-49468931>|<url|#auto-52>>|十、图像补全与拉普拉斯编辑>><vspace|0.5fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D592E950-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D592E950-49468931>|<url|#auto-52>>|十二、抠图>><vspace|0.5fn>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D034C80-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D034C80-49468931>|<url|#auto-53>>|十一、图像克隆、融合与泊松编辑>><vspace|0.5fn>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D4EF62A8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4EF62A8--790CE4F>|<url|#auto-53>>|问题描述>>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5C323520-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5C323520-49468931>|<url|#auto-54>>|十二、泊松方程的离散求解>><vspace|0.5fn>
+    <vspace*|2fn><with|font-series|bold|math-font-series|bold|font-size|1.19|<locus|<id|%1E3CEDFD288-1E3CEC77768-3F6C9B27>|<link|hyperlink|<id|%1E3CEDFD288-1E3CEC77768-3F6C9B27>|<url|#auto-54>>|LESSON 3 2026-09-21 第1-2节>><vspace|1fn>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F54435608-49468931>|<link|hyperlink|<id|%23F54A629F8-23F54435608-49468931>|<url|#auto-55>>|十三、抠图>><vspace|0.5fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D59D0B20-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D59D0B20-49468931>|<url|#auto-55>>|一、课程导入与内容安排>><vspace|0.5fn>
 
-    <vspace*|2fn><with|font-series|bold|math-font-series|bold|font-size|1.19|<locus|<id|%23F54A629F8-23F5C96CEF8-3F6C9B27>|<link|hyperlink|<id|%23F54A629F8-23F5C96CEF8-3F6C9B27>|<url|#auto-56>>|LESSON 3 2026-09-21 第1-2节>><vspace|1fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D504B198-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D504B198-49468931>|<url|#auto-56>>|二、光栅化绘制的背景与核心需求>><vspace|0.5fn>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5C995DA0-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5C995DA0-49468931>|<url|#auto-57>>|一、课程导入与内容安排>><vspace|0.5fn>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D59DDC68--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D59DDC68--790CE4F>|<url|#auto-57>>|2.1 显示硬件的演进：从矢量到光栅>>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5E000AE0-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5E000AE0-49468931>|<url|#auto-58>>|二、光栅化绘制的背景与核心需求>><vspace|0.5fn>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D5C8EB40--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5C8EB40--790CE4F>|<url|#auto-58>>|2.2 帧缓冲区与光栅化流程>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D82FB20--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D82FB20--790CE4F>|<url|#auto-59>>|2.1 显示硬件的演进：从矢量到光栅>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D710F710--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D710F710--790CE4F>|<url|#auto-59>>|2.4 扫描绘制的核心目标>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D9A6FE8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D9A6FE8--790CE4F>|<url|#auto-60>>|2.2 帧缓冲区与光栅化流程>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3CECDA210-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3CECDA210-49468931>|<url|#auto-60>>|三、直线绘制的基础算法>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D8314A0--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D8314A0--790CE4F>|<url|#auto-61>>|2.3 画线操作的普遍性与性能要求>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D7E79990--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7E79990--790CE4F>|<url|#auto-61>>|3.1 暴力算法及其缺陷>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D82F2F8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D82F2F8--790CE4F>|<url|#auto-62>>|2.4 扫描绘制的核心目标>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D529FEA8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D529FEA8--790CE4F>|<url|#auto-62>>|3.2 <with|text-bg-color|#ffe47f|朴素迭代算法>>>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D9C6D08-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D9C6D08-49468931>|<url|#auto-63>>|三、直线绘制的基础算法>><vspace|0.5fn>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D7E812E0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7E812E0--790CE4F>|<url|#auto-63>>|3.3 朴素算法的性能分析>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D9D1800--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D9D1800--790CE4F>|<url|#auto-64>>|3.1 暴力算法及其缺陷>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D7EB0B60-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7EB0B60-49468931>|<url|#auto-64>>|四、DDA数字微分分析仪算法>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D9C5CF0--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D9C5CF0--790CE4F>|<url|#auto-65>>|3.2 朴素迭代算法>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D7EB8228--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7EB8228--790CE4F>|<url|#auto-65>>|4.1 优化思路：乘法转加法迭代>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D6EE378--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D6EE378--790CE4F>|<url|#auto-66>>|3.3 朴素算法的性能分析>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D7F0C590--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F0C590--790CE4F>|<url|#auto-66>>|4.2 算法步骤>>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D9F0820-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D9F0820-49468931>|<url|#auto-67>>|四、DDA数字微分分析仪算法>><vspace|0.5fn>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D7ECF250--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7ECF250--790CE4F>|<url|#auto-67>>|4.3 仍然存在的问题>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D9EB670--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D9EB670--790CE4F>|<url|#auto-68>>|4.1 优化思路：乘法转加法迭代>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D5956510-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5956510-49468931>|<url|#auto-68>>|五、<with|text-bg-color|#ffe47f|布雷森汉姆>（Bresenham）直线算法>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CE34A90--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CE34A90--790CE4F>|<url|#auto-69>>|4.2 算法步骤>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D7EC65B8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7EC65B8--790CE4F>|<url|#auto-69>>|5.1 核心观察：像素步进的二选一>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5DA57280--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5DA57280--790CE4F>|<url|#auto-70>>|4.3 仍然存在的问题>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D7ECC560--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7ECC560--790CE4F>|<url|#auto-70>>|5.2 中点判定法与隐函数思想>>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5DA57AB0-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5DA57AB0-49468931>|<url|#auto-71>>|五、<with|text-bg-color|#ffe47f|布雷森汉姆>（Bresenham）直线算法>><vspace|0.5fn>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D59EBF20--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D59EBF20--790CE4F>|<url|#auto-71>>|5.3 构造整数隐函数>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D9F5130--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D9F5130--790CE4F>|<url|#auto-72>>|5.1 核心观察：像素步进的二选一>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E4033F6648--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E4033F6648--790CE4F>|<url|#auto-72>>|5.4 判别式的迭代更新>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5DA59878--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5DA59878--790CE4F>|<url|#auto-73>>|5.2 中点判定法与隐函数思想>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D57AB5A0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D57AB5A0--790CE4F>|<url|#auto-73>>|5.5 算法推导与迭代过程>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D3AEB80--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D3AEB80--790CE4F>|<url|#auto-74>>|5.3 构造整数隐函数>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D56514F8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D56514F8--790CE4F>|<url|#auto-74>>|5.6 算法伪代码>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D805780--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D805780--790CE4F>|<url|#auto-75>>|5.4 判别式的迭代更新>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D5009030--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5009030--790CE4F>|<url|#auto-75>>|5.7 算法意义>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CDCD098--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CDCD098--790CE4F>|<url|#auto-76>>|5.5 算法推导与迭代过程>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3C6EC4668-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3C6EC4668-49468931>|<url|#auto-76>>|六、直线算法的扩展>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CE04808--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CE04808--790CE4F>|<url|#auto-77>>|5.6 算法伪代码>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D7F2DF58--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F2DF58--790CE4F>|<url|#auto-77>>|6.1 全空间直线的八分区处理>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CE1EE98--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CE1EE98--790CE4F>|<url|#auto-78>>|5.7 算法意义>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D7F37D38--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F37D38--790CE4F>|<url|#auto-78>>|6.2 扩展到画圆>>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5CE220D8-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5CE220D8-49468931>|<url|#auto-79>>|六、直线算法的扩展>><vspace|0.5fn>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D4FAEFF8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FAEFF8--790CE4F>|<url|#auto-79>>|6.3 多边形扫描线算法>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CEC5390--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CEC5390--790CE4F>|<url|#auto-80>>|6.1 全空间直线的八分区处理>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D54DBAC0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D54DBAC0--790CE4F>|<url|#auto-80>>|6.4 凹多边形与三角化>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CE10810--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CE10810--790CE4F>|<url|#auto-81>>|6.2 扩展到画圆>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D7F5C580-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F5C580-49468931>|<url|#auto-81>>|七、颜色插值与图像变形>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CE3C488--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CE3C488--790CE4F>|<url|#auto-82>>|6.3 多边形扫描线算法>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D7F557D0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F557D0--790CE4F>|<url|#auto-82>>|7.1 颜色线性插值>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CE268C0--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CE268C0--790CE4F>|<url|#auto-83>>|6.4 凹多边形与三角化>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D4E73EE0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4E73EE0--790CE4F>|<url|#auto-83>>|7.2 双线性插值>>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5CE276A8-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5CE276A8-49468931>|<url|#auto-84>>|七、颜色插值与图像变形>><vspace|0.5fn>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D4E791E8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4E791E8--790CE4F>|<url|#auto-84>>|7.3 图像变形（Image Warping）>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CE451C0--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CE451C0--790CE4F>|<url|#auto-85>>|7.1 颜色线性插值>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D4E93310--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4E93310--790CE4F>|<url|#auto-85>>|7.4 交互式形变的实现>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CE2F438--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CE2F438--790CE4F>|<url|#auto-86>>|7.2 双线性插值>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D4E82480--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4E82480--790CE4F>|<url|#auto-86>>|7.5 四边形插值的两种方式>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CE53E40--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CE53E40--790CE4F>|<url|#auto-87>>|7.3 图像变形（Image Warping）>>
+    <vspace*|2fn><with|font-series|bold|math-font-series|bold|font-size|1.19|<locus|<id|%1E3CEDFD288-1E3C6E91220-3F6C9B27>|<link|hyperlink|<id|%1E3CEDFD288-1E3C6E91220-3F6C9B27>|<url|#auto-87>>|LESSON 4 2026-09-22 第5-6节>><vspace|1fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CE52DC8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CE52DC8--790CE4F>|<url|#auto-88>>|7.4 交互式形变的实现>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E4035E74F8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E4035E74F8-49468931>|<url|#auto-88>>|显式曲线>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CE664C8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CE664C8--790CE4F>|<url|#auto-89>>|7.5 四边形插值的两种方式>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E4035EDCC0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E4035EDCC0-49468931>|<url|#auto-89>>|隐式曲线>><vspace|0.5fn>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5CE6CF10-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5CE6CF10-49468931>|<url|#auto-90>>|八、曲线内容展望>><vspace|0.5fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D7F07F78-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F07F78-49468931>|<url|#auto-90>>|参数化曲线>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CE71F08--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CE71F08--790CE4F>|<url|#auto-91>>|8.1 曲线的表达需求>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E400183348--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E400183348--790CE4F>|<url|#auto-91>>|参数化曲线的定义与优势>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CE68A00--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CE68A00--790CE4F>|<url|#auto-92>>|8.2 矢量图与曲线>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3CEC6F300--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3CEC6F300--790CE4F>|<url|#auto-92>>|多项式曲线及其不足>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CE69B18--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CE69B18--790CE4F>|<url|#auto-93>>|8.3 工业领域的曲线应用：CAD/CAE/CAM>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E403585C18-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E403585C18-49468931>|<url|#auto-93>>|插值与基函数基础>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CE86E08--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CE86E08--790CE4F>|<url|#auto-94>>|8.4 后续课程预告>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E4033BA8D8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E4033BA8D8--790CE4F>|<url|#auto-94>>|线性插值>>
 
-    <vspace*|2fn><with|font-series|bold|math-font-series|bold|font-size|1.19|<locus|<id|%23F54A629F8-23F5CE7C248-3F6C9B27>|<link|hyperlink|<id|%23F54A629F8-23F5CE7C248-3F6C9B27>|<url|#auto-95>>|LESSON 4 2026-09-22 第5-6节>><vspace|1fn>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D57B40E8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D57B40E8--790CE4F>|<url|#auto-95>>|基函数的概念>>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D80C178-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D80C178-49468931>|<url|#auto-96>>|课程导入>><vspace|0.5fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D57B4320-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D57B4320-49468931>|<url|#auto-96>>|贝塞尔曲线>><vspace|0.5fn>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5CE7E6B0-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5CE7E6B0-49468931>|<url|#auto-97>>|显式曲线>><vspace|0.5fn>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D4EC62E8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4EC62E8--790CE4F>|<url|#auto-97>>|直观认识与构造过程>>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5CE79878-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5CE79878-49468931>|<url|#auto-98>>|隐式曲线>><vspace|0.5fn>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D4EE63B0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4EE63B0--790CE4F>|<url|#auto-98>>|阶数与递归构造>>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F54358D30-49468931>|<link|hyperlink|<id|%23F54A629F8-23F54358D30-49468931>|<url|#auto-99>>|参数化曲线>><vspace|0.5fn>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D4EEF260--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4EEF260--790CE4F>|<url|#auto-99>>|代码实现思路>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CEC6720--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CEC6720--790CE4F>|<url|#auto-100>>|参数化曲线的定义与优势>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E403686D28--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E403686D28--790CE4F>|<url|#auto-100>>|数学形式与伯恩斯坦基函数>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CE88698--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CE88698--790CE4F>|<url|#auto-101>>|多项式曲线及其不足>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E4035450F0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E4035450F0--790CE4F>|<url|#auto-101>>|数值稳定性与矩阵形式>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CEE1C60--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CEE1C60--790CE4F>|<url|#auto-102>>|分段曲线的思路>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E403381C68--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E403381C68--790CE4F>|<url|#auto-102>>|端点与切线性质>>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5CE89C98-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5CE89C98-49468931>|<url|#auto-103>>|插值与基函数基础>><vspace|0.5fn>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D4F1AD38--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4F1AD38--790CE4F>|<url|#auto-103>>|连续性：C连续与G连续>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D3B3098--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D3B3098--790CE4F>|<url|#auto-104>>|线性插值>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E4035E6CD0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E4035E6CD0--790CE4F>|<url|#auto-104>>|贝塞尔曲面（三维扩展）>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CEE4B30--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CEE4B30--790CE4F>|<url|#auto-105>>|基函数的概念>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D4FA60F8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FA60F8--790CE4F>|<url|#auto-105>>|凸包性与局限性>>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5CEF65A0-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5CEF65A0-49468931>|<url|#auto-106>>|贝塞尔曲线>><vspace|0.5fn>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E402CCC7A8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E402CCC7A8--790CE4F>|<url|#auto-106>>|前沿拓展：犹他茶壶与G2连续问题>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CEDDC88--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CEDDC88--790CE4F>|<url|#auto-107>>|直观认识与构造过程>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E40EE9C6D8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E40EE9C6D8-49468931>|<url|#auto-107>>|其他参数化曲线>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CEF9ED8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CEF9ED8--790CE4F>|<url|#auto-108>>|阶数与递归构造>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D5204808--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5204808--790CE4F>|<url|#auto-108>>|三次样条曲线>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CF1ADC0--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CF1ADC0--790CE4F>|<url|#auto-109>>|代码实现思路>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E40EE875B8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E40EE875B8--790CE4F>|<url|#auto-109>>|Catmull-Rom曲线与厄米曲线>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CF0B3C0--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CF0B3C0--790CE4F>|<url|#auto-110>>|数学形式与伯恩斯坦基函数>>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E403645000--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E403645000--EE108B>|<url|#auto-110>>|Catmull-Rom曲线>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CF0E8F0--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CF0E8F0--790CE4F>|<url|#auto-111>>|数值稳定性与矩阵形式>>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E3D4FA9160--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FA9160--EE108B>|<url|#auto-111>>|厄米曲线>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5444B608--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5444B608--790CE4F>|<url|#auto-112>>|端点与切线性质>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D508B2E8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D508B2E8--790CE4F>|<url|#auto-112>>|B样条曲线简介>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D80F1E0--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D80F1E0--790CE4F>|<url|#auto-113>>|连续性：C连续与G连续>>
+    <vspace*|2fn><with|font-series|bold|math-font-series|bold|font-size|1.19|<locus|<id|%1E3CEDFD288-1E3D4FC8400-3F6C9B27>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FC8400-3F6C9B27>|<url|#auto-113>>|LESSON 5.1（2026-09-28 第1-2节）>><vspace|1fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CF4F118--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CF4F118--790CE4F>|<url|#auto-114>>|贝塞尔曲面（三维扩展）>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D512AAB0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D512AAB0-49468931>|<url|#auto-114>>|第1节 B样条曲线的引入（对应PPT第56页）>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CF5C548--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CF5C548--790CE4F>|<url|#auto-115>>|凸包性与局限性>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D4FDBB58--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FDBB58--790CE4F>|<url|#auto-115>>|1.2 B样条曲线的定义式>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CF58328--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CF58328--790CE4F>|<url|#auto-116>>|前沿拓展：犹他茶壶与G2连续问题>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D4FEB790--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FEB790--790CE4F>|<url|#auto-116>>|1.3 核心基础概念：节点（Knot）>>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5CF5F0E0-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5CF5F0E0-49468931>|<url|#auto-117>>|其他参数化曲线>><vspace|0.5fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D5646C10-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5646C10-49468931>|<url|#auto-117>>|第2节 B样条基函数的递归定义（对应第57-58页）>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CF57D58--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CF57D58--790CE4F>|<url|#auto-118>>|三次样条曲线>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E40369E448--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E40369E448--790CE4F>|<url|#auto-118>>|2.1 递归起点：0阶B样条基函数>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CF692A0--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CF692A0--790CE4F>|<url|#auto-119>>|Catmull-Rom曲线与厄米曲线>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D4FFDAB0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FFDAB0--790CE4F>|<url|#auto-119>>|2.2 Cox-de Boor递推公式>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5CF78868--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5CF78868--EE108B>|<url|#auto-120>>|Catmull-Rom曲线>>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E403581360--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E403581360--EE108B>|<url|#auto-120>>|公式解释：>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5CF62BA0--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5CF62BA0--EE108B>|<url|#auto-121>>|厄米曲线>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D500DD60--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D500DD60--790CE4F>|<url|#auto-121>>|2.3 低阶基函数的形态>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CF80490--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CF80490--790CE4F>|<url|#auto-122>>|B样条曲线简介>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D5021020--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5021020--790CE4F>|<url|#auto-122>>|2.4 基函数的核心性质：单位分解>>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5CF81EA8-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5CF81EA8-49468931>|<url|#auto-123>>|课堂问答>><vspace|0.5fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E40306BC68-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E40306BC68-49468931>|<url|#auto-123>>|第3节 B样条基函数的通用规律（对应第59-60页）>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CE97E58--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CE97E58--790CE4F>|<url|#auto-124>>|问题1：C1连续和G1连续的核心区别是什么？>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D500C040--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D500C040--790CE4F>|<url|#auto-124>>|3.1 局部支撑规律>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CF59A90--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CF59A90--790CE4F>|<url|#auto-125>>|问题2：厄米曲线和贝塞尔曲线的对应关系是什么？>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E4030C89B0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E4030C89B0--790CE4F>|<url|#auto-125>>|3.2 光滑性规律>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5DA58020--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5DA58020--790CE4F>|<url|#auto-126>>|问题3：伯恩斯坦多项式可以表示任意多项式曲线吗？>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D7EA6BD8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7EA6BD8--790CE4F>|<url|#auto-126>>|3.3 非负性与凸包性质>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CF798A8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CF798A8--790CE4F>|<url|#auto-127>>|问题4：考试中曲线部分的考察重点是什么？>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D5039B98--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5039B98--790CE4F>|<url|#auto-127>>|3.4 局部控制特性的本质>>
 
-    <vspace*|2fn><with|font-series|bold|math-font-series|bold|font-size|1.19|<locus|<id|%23F54A629F8-23F5CF62080-3F6C9B27>|<link|hyperlink|<id|%23F54A629F8-23F5CF62080-3F6C9B27>|<url|#auto-128>>|LESSON 5.1（2026-09-28 第1-2节）>><vspace|1fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D5038C50-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5038C50-49468931>|<url|#auto-128>>|第4节 三次均匀B样条的显式表达（对应第61-62页）>><vspace|0.5fn>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5CF93AE8-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5CF93AE8-49468931>|<url|#auto-129>>|第1节 B样条曲线的引入（对应PPT第56页）>><vspace|0.5fn>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D50467A0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50467A0--790CE4F>|<url|#auto-129>>|4.1 参数归一化>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CF7A010--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CF7A010--790CE4F>|<url|#auto-130>>|1.1 贝塞尔曲线的控制特性回顾>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D55BE7E8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D55BE7E8--790CE4F>|<url|#auto-130>>|4.2 三次均匀B样条的显式基函数>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5CE1B470--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5CE1B470--790CE4F>|<url|#auto-131>>|1.2 B样条曲线的定义式>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D7F1B898--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F1B898--790CE4F>|<url|#auto-131>>|4.3 矩阵形式（便于编程计算）>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D026C70--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D026C70--790CE4F>|<url|#auto-132>>|1.3 核心基础概念：节点（Knot）>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D5050268--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5050268--790CE4F>|<url|#auto-132>>|4.4 凸包性质验证>>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D02DE70-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D02DE70-49468931>|<url|#auto-133>>|第2节 B样条基函数的递归定义（对应第57-58页）>><vspace|0.5fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D5053188-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5053188-49468931>|<url|#auto-133>>|第6节 三次B样条曲面片（对应第66页）>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D00ED08--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D00ED08--790CE4F>|<url|#auto-134>>|2.1 递归起点：0阶B样条基函数>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D50654E0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50654E0--790CE4F>|<url|#auto-134>>|6.1 张量积构造思想>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D0418F8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D0418F8--790CE4F>|<url|#auto-135>>|2.2 Cox-de Boor递推公式>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D50467A0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50467A0--790CE4F>|<url|#auto-135>>|6.2 曲面的数学表达式>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D021308--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D021308--EE108B>|<url|#auto-136>>|公式解释：>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3F11EB9D0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3F11EB9D0--790CE4F>|<url|#auto-136>>|6.3 曲面的核心特性>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D041A78--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D041A78--790CE4F>|<url|#auto-137>>|2.3 低阶基函数的形态>>
+    <vspace*|2fn><with|font-series|bold|math-font-series|bold|font-size|1.19|<locus|<id|%1E3CEDFD288-1E3D5094108-3F6C9B27>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5094108-3F6C9B27>|<url|#auto-137>>|LESSON 5.2 反走样>><vspace|1fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D0490E8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D0490E8--790CE4F>|<url|#auto-138>>|2.4 基函数的核心性质：单位分解>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D4F0C570-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4F0C570-49468931>|<url|#auto-138>>|第1章 走样现象与本质>><vspace|0.5fn>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D04AE00-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D04AE00-49468931>|<url|#auto-139>>|第3节 B样条基函数的通用规律（对应第59-60页）>><vspace|0.5fn>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E4035BDB70--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E4035BDB70--790CE4F>|<url|#auto-139>>|1.1 什么是走样>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D6D28C8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D6D28C8--790CE4F>|<url|#auto-140>>|3.1 局部支撑规律>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D50F1300--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50F1300--790CE4F>|<url|#auto-140>>|1.2 走样的直观成因>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D06B148--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D06B148--790CE4F>|<url|#auto-141>>|3.2 光滑性规律>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E403099160-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E403099160-49468931>|<url|#auto-141>>|第2章 频域分析基础：傅里叶变换>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5430C108--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5430C108--790CE4F>|<url|#auto-142>>|3.3 非负性与凸包性质>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D52558D0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D52558D0--790CE4F>|<url|#auto-142>>|2.1 一维傅里叶变换：从时域到频域>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D06D7F0--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D06D7F0--790CE4F>|<url|#auto-143>>|3.4 局部控制特性的本质>>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E40DA250D8--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E40DA250D8--EE108B>|<url|#auto-143>>|核心思想>>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D07A748-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D07A748-49468931>|<url|#auto-144>>|第4节 三次均匀B样条的显式表达（对应第61-62页）>><vspace|0.5fn>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E402FFD1D0--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E402FFD1D0--EE108B>|<url|#auto-144>>|数学定义>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D0841F8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D0841F8--790CE4F>|<url|#auto-145>>|4.1 参数归一化>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D506C9A8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D506C9A8--790CE4F>|<url|#auto-145>>|2.2 空间频率：从一维信号到二维图像>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D078B50--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D078B50--790CE4F>|<url|#auto-146>>|4.2 三次均匀B样条的显式基函数>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D5118630--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5118630--790CE4F>|<url|#auto-146>>|2.3 二维傅里叶分解：图像的基底展开>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D0819A8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D0819A8--790CE4F>|<url|#auto-147>>|4.3 矩阵形式（便于编程计算）>>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E3D511E048--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D511E048--EE108B>|<url|#auto-147>>|典型基底与视觉形态>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D076450--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D076450--790CE4F>|<url|#auto-148>>|4.4 凸包性质验证>>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E3D550F268--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D550F268--EE108B>|<url|#auto-148>>|图像的重建过程>>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D092EB0-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D092EB0-49468931>|<url|#auto-149>>|第5节 三次B样条的分段逻辑与核心特性（对应第63-64页）>><vspace|0.5fn>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E403067C10--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E403067C10--790CE4F>|<url|#auto-149>>|2.4 二维频谱的性质>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D098B50--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D098B50--790CE4F>|<url|#auto-150>>|5.1 滑动窗口的分段机制>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E40011CEE0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E40011CEE0-49468931>|<url|#auto-150>>|第3章 采样定理与走样的数学本质>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D09CB68--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D09CB68--790CE4F>|<url|#auto-151>>|5.2 天然高阶连续性>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D5134058--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5134058--790CE4F>|<url|#auto-151>>|3.1 离散采样的数学表达>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D0B9580--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D0B9580--790CE4F>|<url|#auto-152>>|5.3 与三次贝塞尔曲线的等价转换>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D51469E8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51469E8--790CE4F>|<url|#auto-152>>|3.2 采样的频域效应：频谱周期延拓（完整推导）>>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D0A6C50-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D0A6C50-49468931>|<url|#auto-153>>|第6节 三次B样条曲面片（对应第66页）>><vspace|0.5fn>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E3D513DE30--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D513DE30--EE108B>|<url|#auto-153>>|第一步：采样冲激串的频谱>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D07D7D0--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D07D7D0--790CE4F>|<url|#auto-154>>|6.1 张量积构造思想>>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E3D57C5AF0--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D57C5AF0--EE108B>|<url|#auto-154>>|第二步：卷积的物理意义>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D9E7E38--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D9E7E38--790CE4F>|<url|#auto-155>>|6.2 曲面的数学表达式>>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E3D5150EE0--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5150EE0--EE108B>|<url|#auto-155>>|核心结论>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D0C9458--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D0C9458--790CE4F>|<url|#auto-156>>|6.3 曲面的核心特性>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D5154570--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5154570--790CE4F>|<url|#auto-156>>|3.3 奈奎斯特-香农采样定理>>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D0C3AF8-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D0C3AF8-49468931>|<url|#auto-157>>|第7节 样条的推广：节点向量的一般理论（对应第67-71页）>><vspace|0.5fn>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E402D000D8--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E402D000D8--EE108B>|<url|#auto-157>>|临界条件推导>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D07E8A8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D07E8A8--790CE4F>|<url|#auto-158>>|7.1 节点与节点向量的严格定义>>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E3D5146AC8--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5146AC8--EE108B>|<url|#auto-158>>|定理正式表述>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D0DFF48--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D0DFF48--790CE4F>|<url|#auto-159>>|7.2 重节点的定义>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D515A888--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D515A888--790CE4F>|<url|#auto-159>>|3.4 混叠的频率折叠效应>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D0DB6F8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D0DB6F8--790CE4F>|<url|#auto-160>>|7.3 均匀节点与非均匀节点>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D5160100--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5160100--790CE4F>|<url|#auto-160>>|3.5 二维图像的采样与走样>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D0E6B38--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D0E6B38--790CE4F>|<url|#auto-161>>|7.4 非均匀节点的核心作用>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D73C59A0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D73C59A0-49468931>|<url|#auto-161>>|第4章 抗锯齿的核心机制：低通滤波>><vspace|0.5fn>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D0FAD20--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D0FAD20--EE108B>|<url|#auto-162>>|（1）调整局部控制精度>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D510B5D8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D510B5D8--790CE4F>|<url|#auto-162>>|4.1 抗锯齿的两种等价思路>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D0FFD88--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D0FFD88--EE108B>|<url|#auto-163>>|（2）重节点控制曲线连续性>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D7E9E420--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7E9E420--790CE4F>|<url|#auto-163>>|4.2 面积采样：光栅化中的低通实现>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D0F8C58--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D0F8C58--790CE4F>|<url|#auto-164>>|7.5 重节点降低连续性的原理推导>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D5191228--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5191228--790CE4F>|<url|#auto-164>>|4.3 常见的低通滤波核>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D10E428--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D10E428--EE108B>|<url|#auto-165>>|实例验证（三次B样条，<with|mode|math|(p=3)>）>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D5197FC0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5197FC0--790CE4F>|<url|#auto-165>>|4.4 基于距离函数的滤波实现>>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D080350-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D080350-49468931>|<url|#auto-166>>|第8节 节点向量的类型与端点插值（对应第72-73页）>><vspace|0.5fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D51A36D0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51A36D0-49468931>|<url|#auto-166>>|第5章 纹理重采样与Mipmap技术>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D110730--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D110730--790CE4F>|<url|#auto-167>>|8.1 节点间距对基函数权重的影响>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D4EB4EF0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4EB4EF0--790CE4F>|<url|#auto-167>>|5.1 图像映射中的走样问题>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D118D78--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D118D78--790CE4F>|<url|#auto-168>>|8.2 开节点向量与闭节点向量>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D73AFF58--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D73AFF58--790CE4F>|<url|#auto-168>>|5.2 Mipmap：预滤波图像金字塔>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D123940--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D123940--790CE4F>|<url|#auto-169>>|8.3 闭节点实现端点插值的原理>>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E40EE362C8--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E40EE362C8--EE108B>|<url|#auto-169>>|核心原理>>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D120FE8-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D120FE8-49468931>|<url|#auto-170>>|第9节 NURBS曲线（对应第74-75页）>><vspace|0.5fn>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E40ECC9AF8--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E40ECC9AF8--EE108B>|<url|#auto-170>>|使用方式>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D132E20--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D132E20--790CE4F>|<url|#auto-171>>|9.1 核心扩展：控制点权重>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E403661100--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E403661100--790CE4F>|<url|#auto-171>>|5.3 Mipmap的存储开销计算>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D107008--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D107008--790CE4F>|<url|#auto-172>>|9.2 有理基函数与曲线表达式>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E40EE3A988--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E40EE3A988--790CE4F>|<url|#auto-172>>|5.4 透视场景下的层级计算>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D1308D8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D1308D8--790CE4F>|<url|#auto-173>>|9.3 权重的几何意义>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D51B7B70-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51B7B70-49468931>|<url|#auto-173>>|第6章 几何光栅化抗锯齿技术>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D14BB98--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D14BB98--790CE4F>|<url|#auto-174>>|9.4 与普通B样条的包含关系>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D5044478--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5044478--790CE4F>|<url|#auto-174>>|6.1 超采样抗锯齿（SSAA）>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D14DEC0--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D14DEC0--790CE4F>|<url|#auto-175>>|9.5 齐次坐标视角下的NURBS推导>>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E403013590--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E403013590--EE108B>|<url|#auto-175>>|实现原理>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D14DD78--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D14DD78--EE108B>|<url|#auto-176>>|步骤1：控制点升维到齐次空间>>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E40308DE10--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E40308DE10--EE108B>|<url|#auto-176>>|采样点布局>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5CE21968--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5CE21968--EE108B>|<url|#auto-177>>|步骤2：齐次空间中做普通B样条插值>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D51C8120--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51C8120--790CE4F>|<url|#auto-177>>|6.2 多重采样抗锯齿（MSAA）>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D143F78--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D143F78--EE108B>|<url|#auto-178>>|步骤3：透视投影得到三维NURBS>>
+    <with|par-left|2tab|<locus|<id|%1E3CEDFD288-1E3D51C4AF8--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51C4AF8--EE108B>|<url|#auto-178>>|核心思想>>
 
-    <vspace*|2fn><with|font-series|bold|math-font-series|bold|font-size|1.19|<locus|<id|%23F54A629F8-23F5D152560-3F6C9B27>|<link|hyperlink|<id|%23F54A629F8-23F5D152560-3F6C9B27>|<url|#auto-179>>|LESSON 5.2 反走样>><vspace|1fn>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D51DD3E0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51DD3E0--790CE4F>|<url|#auto-179>>|6.3 SSAA与MSAA的对比>>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D160F68-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D160F68-49468931>|<url|#auto-180>>|第1章 走样现象与本质>><vspace|0.5fn>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D51E6898--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51E6898--790CE4F>|<url|#auto-180>>|6.4 几何走样与着色走样的区分>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D156160--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D156160--790CE4F>|<url|#auto-181>>|1.1 什么是走样>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D51F6690-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51F6690-49468931>|<url|#auto-181>>|全书知识框架总结>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D151C70--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D151C70--790CE4F>|<url|#auto-182>>|1.2 走样的直观成因>>
+    <vspace*|2fn><with|font-series|bold|math-font-series|bold|font-size|1.19|<locus|<id|%1E3CEDFD288-1E3D51FCB28-3F6C9B27>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51FCB28-3F6C9B27>|<url|#auto-182>>|LESSON 6 2026-09-29 第5-6节>><vspace|1fn>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D15C780-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D15C780-49468931>|<url|#auto-183>>|第2章 频域分析基础：傅里叶变换>><vspace|0.5fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E402E38188-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E402E38188-49468931>|<url|#auto-183>>|一、课程导入与安排>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D15D5A8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D15D5A8--790CE4F>|<url|#auto-184>>|2.1 一维傅里叶变换：从时域到频域>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D51FCBF8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51FCBF8-49468931>|<url|#auto-184>>|二、几何概述>><vspace|0.5fn>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D81D718--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D81D718--EE108B>|<url|#auto-185>>|核心思想>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D8059AA0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D8059AA0--790CE4F>|<url|#auto-185>>|2.1 几何的词源与研究对象>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D16D208--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D16D208--EE108B>|<url|#auto-186>>|数学定义>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D50C2FA0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50C2FA0--790CE4F>|<url|#auto-186>>|2.2 经典几何模型：犹他茶壶>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D15F5F8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D15F5F8--790CE4F>|<url|#auto-187>>|2.2 空间频率：从一维信号到二维图像>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E402FEB350--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E402FEB350--790CE4F>|<url|#auto-187>>|2.3 图形学经典数据集：斯坦福四大模型>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D1264E8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D1264E8--790CE4F>|<url|#auto-188>>|2.3 二维傅里叶分解：图像的基底展开>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D50D7C40-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50D7C40-49468931>|<url|#auto-188>>|三、几何的表达分类>><vspace|0.5fn>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D184428--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D184428--EE108B>|<url|#auto-189>>|典型基底与视觉形态>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D51EFCD0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51EFCD0--790CE4F>|<url|#auto-189>>|3.1 显式表达>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D17F300--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D17F300--EE108B>|<url|#auto-190>>|图像的重建过程>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D521AF50--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D521AF50--790CE4F>|<url|#auto-190>>|3.2 隐式表达>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D185B70--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D185B70--790CE4F>|<url|#auto-191>>|2.4 二维频谱的性质>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D5201690-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5201690-49468931>|<url|#auto-191>>|四、点云与激光扫描技术>><vspace|0.5fn>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D1A5A10-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D1A5A10-49468931>|<url|#auto-192>>|第3章 采样定理与走样的数学本质>><vspace|0.5fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E40E084FA8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E40E084FA8-49468931>|<url|#auto-192>>|五、多边形网格基础>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D1846D0--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D1846D0--790CE4F>|<url|#auto-193>>|3.1 离散采样的数学表达>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D50DA528-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50DA528-49468931>|<url|#auto-193>>|六、三角网格的存储方式>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D1A69B0--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D1A69B0--790CE4F>|<url|#auto-194>>|3.2 采样的频域效应：频谱周期延拓（完整推导）>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D52155F8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D52155F8--790CE4F>|<url|#auto-194>>|6.1 OBJ格式>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D19BD48--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D19BD48--EE108B>|<url|#auto-195>>|第一步：采样冲激串的频谱>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E40ECDB058--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E40ECDB058--790CE4F>|<url|#auto-195>>|6.2 Triangle Soup（三角汤）>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D192180--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D192180--EE108B>|<url|#auto-196>>|第二步：卷积的物理意义>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E40EE93320--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E40EE93320--790CE4F>|<url|#auto-196>>|6.3 两种存储方式的对比>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D1A0180--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D1A0180--EE108B>|<url|#auto-197>>|核心结论>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D5243C88--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5243C88--790CE4F>|<url|#auto-197>>|6.4 邻接关系的预计算>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D1AF3F8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D1AF3F8--790CE4F>|<url|#auto-198>>|3.3 奈奎斯特-香农采样定理>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D51B1920-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51B1920-49468931>|<url|#auto-198>>|七、半边数据结构（Half-Edge Data Structure）>><vspace|0.5fn>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D1A4288--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D1A4288--EE108B>|<url|#auto-199>>|临界条件推导>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E40EDAF680--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E40EDAF680--790CE4F>|<url|#auto-199>>|<with|text-bg-color|#ffe47f|7.1 数据结构定义>>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D1C14E8--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D1C14E8--EE108B>|<url|#auto-200>>|定理正式表述>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D5260AC0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5260AC0--790CE4F>|<url|#auto-200>>|7.2 拓扑遍历操作>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D128068--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D128068--790CE4F>|<url|#auto-201>>|3.4 混叠的频率折叠效应>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D5275390--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5275390--790CE4F>|<url|#auto-201>>|7.3 应用特点>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D1A4998--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D1A4998--790CE4F>|<url|#auto-202>>|3.5 二维图像的采样与走样>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D5266868-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5266868-49468931>|<url|#auto-202>>|八、面向渲染的专用网格结构>><vspace|0.5fn>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D1CF958-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D1CF958-49468931>|<url|#auto-203>>|第4章 抗锯齿的核心机制：低通滤波>><vspace|0.5fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D526D7E8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D526D7E8-49468931>|<url|#auto-203>>|九、四边形网格（Quad Mesh）>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D1CDEB0--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D1CDEB0--790CE4F>|<url|#auto-204>>|4.1 抗锯齿的两种等价思路>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D5273490-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5273490-49468931>|<url|#auto-204>>|十、多边形网格的优缺点>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D1E2BE8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D1E2BE8--790CE4F>|<url|#auto-205>>|4.2 面积采样：光栅化中的低通实现>>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E3D5280B68-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5280B68-49468931>|<url|#auto-205>>|十一、网格细分（Mesh Subdivision）>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D1E1258--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D1E1258--790CE4F>|<url|#auto-206>>|4.3 常见的低通滤波核>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E3D5280B68--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5280B68--790CE4F>|<url|#auto-206>>|11.1 Catmull-Clark细分>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D1F0468--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D1F0468--790CE4F>|<url|#auto-207>>|4.4 基于距离函数的滤波实现>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E40308DA68--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E40308DA68--790CE4F>|<url|#auto-207>>|11.2 Loop细分>>
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D1F5D98-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D1F5D98-49468931>|<url|#auto-208>>|第5章 纹理重采样与Mipmap技术>><vspace|0.5fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E403085FD0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E403085FD0-49468931>|<url|#auto-208>>|十二、网格参数化（Mesh Parameterization）>><vspace|0.5fn>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D1F0310--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D1F0310--790CE4F>|<url|#auto-209>>|5.1 图像映射中的走样问题>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E403035E18--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E403035E18--790CE4F>|<url|#auto-209>>|12.1 概念与应用>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D203990--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D203990--790CE4F>|<url|#auto-210>>|5.2 Mipmap：预滤波图像金字塔>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E4030A47B0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E4030A47B0--790CE4F>|<url|#auto-210>>|12.2 常见的参数化方法>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5C3374D0--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5C3374D0--EE108B>|<url|#auto-211>>|核心原理>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E4032321D0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E4032321D0--790CE4F>|<url|#auto-211>>|12.3 参数化的分类>>
 
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D202AD8--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D202AD8--EE108B>|<url|#auto-212>>|使用方式>>
+    <with|par-left|1tab|<locus|<id|%1E3CEDFD288-1E403248370--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E403248370--790CE4F>|<url|#auto-212>>|12.4 基于弹簧能量的参数化方法>>
 
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D202B48--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D202B48--790CE4F>|<url|#auto-213>>|5.3 Mipmap的存储开销计算>>
-
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D1FEEB0--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D1FEEB0--790CE4F>|<url|#auto-214>>|5.4 透视场景下的层级计算>>
-
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D20BE48-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D20BE48-49468931>|<url|#auto-215>>|第6章 几何光栅化抗锯齿技术>><vspace|0.5fn>
-
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D20EFF0--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D20EFF0--790CE4F>|<url|#auto-216>>|6.1 超采样抗锯齿（SSAA）>>
-
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D20FFA0--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D20FFA0--EE108B>|<url|#auto-217>>|实现原理>>
-
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D12A060--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D12A060--EE108B>|<url|#auto-218>>|采样点布局>>
-
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D21CF40--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D21CF40--790CE4F>|<url|#auto-219>>|6.2 多重采样抗锯齿（MSAA）>>
-
-    <with|par-left|2tab|<locus|<id|%23F54A629F8-23F5D8238A8--EE108B>|<link|hyperlink|<id|%23F54A629F8-23F5D8238A8--EE108B>|<url|#auto-220>>|核心思想>>
-
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D22A9D8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D22A9D8--790CE4F>|<url|#auto-221>>|6.3 SSAA与MSAA的对比>>
-
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D236808--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D236808--790CE4F>|<url|#auto-222>>|6.4 几何走样与着色走样的区分>>
-
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D24D918-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D24D918-49468931>|<url|#auto-223>>|全书知识框架总结>><vspace|0.5fn>
-
-    <vspace*|2fn><with|font-series|bold|math-font-series|bold|font-size|1.19|<locus|<id|%23F54A629F8-23F5D248EE8-3F6C9B27>|<link|hyperlink|<id|%23F54A629F8-23F5D248EE8-3F6C9B27>|<url|#auto-224>>|LESSON 6 2026-09-29 第5-6节>><vspace|1fn>
-
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D12C160-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D12C160-49468931>|<url|#auto-225>>|一、课程导入与安排>><vspace|0.5fn>
-
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D255C40-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D255C40-49468931>|<url|#auto-226>>|二、几何概述>><vspace|0.5fn>
-
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D0565A0--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D0565A0--790CE4F>|<url|#auto-227>>|2.1 几何的词源与研究对象>>
-
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D252A60--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D252A60--790CE4F>|<url|#auto-228>>|2.2 经典几何模型：犹他茶壶>>
-
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D12C9F8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D12C9F8--790CE4F>|<url|#auto-229>>|2.3 图形学经典数据集：斯坦福四大模型>>
-
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D12D7B8-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D12D7B8-49468931>|<url|#auto-230>>|三、几何的表达分类>><vspace|0.5fn>
-
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D254170--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D254170--790CE4F>|<url|#auto-231>>|3.1 显式表达>>
-
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D26EF70--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D26EF70--790CE4F>|<url|#auto-232>>|3.2 隐式表达>>
-
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D272690-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D272690-49468931>|<url|#auto-233>>|四、点云与激光扫描技术>><vspace|0.5fn>
-
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D276078-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D276078-49468931>|<url|#auto-234>>|五、多边形网格基础>><vspace|0.5fn>
-
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D29BA88-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D29BA88-49468931>|<url|#auto-235>>|六、三角网格的存储方式>><vspace|0.5fn>
-
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D26F418--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D26F418--790CE4F>|<url|#auto-236>>|6.1 OBJ格式>>
-
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D296F68--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D296F68--790CE4F>|<url|#auto-237>>|6.2 Triangle Soup（三角汤）>>
-
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D2AC140--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D2AC140--790CE4F>|<url|#auto-238>>|6.3 两种存储方式的对比>>
-
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D2B30C8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D2B30C8--790CE4F>|<url|#auto-239>>|6.4 邻接关系的预计算>>
-
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D27D8D0-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D27D8D0-49468931>|<url|#auto-240>>|七、半边数据结构（Half-Edge Data Structure）>><vspace|0.5fn>
-
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D2A69D8--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D2A69D8--790CE4F>|<url|#auto-241>>|<with|text-bg-color|#ffe47f|7.1 数据结构定义>>>
-
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D2BD5D0--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D2BD5D0--790CE4F>|<url|#auto-242>>|7.2 拓扑遍历操作>>
-
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D2C9B28--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D2C9B28--790CE4F>|<url|#auto-243>>|7.3 应用特点>>
-
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D2CA600-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D2CA600-49468931>|<url|#auto-244>>|八、面向渲染的专用网格结构>><vspace|0.5fn>
-
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D2C1DD8-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D2C1DD8-49468931>|<url|#auto-245>>|九、四边形网格（Quad Mesh）>><vspace|0.5fn>
-
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D2B9650-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D2B9650-49468931>|<url|#auto-246>>|十、多边形网格的优缺点>><vspace|0.5fn>
-
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D2E92F0-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D2E92F0-49468931>|<url|#auto-247>>|十一、网格细分（Mesh Subdivision）>><vspace|0.5fn>
-
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D2E92F0--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D2E92F0--790CE4F>|<url|#auto-248>>|11.1 Catmull-Clark细分>>
-
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D305118--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D305118--790CE4F>|<url|#auto-249>>|11.2 Loop细分>>
-
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D301478-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D301478-49468931>|<url|#auto-250>>|十二、网格参数化（Mesh Parameterization）>><vspace|0.5fn>
-
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5C381E78--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5C381E78--790CE4F>|<url|#auto-251>>|12.1 概念与应用>>
-
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5C0B9388--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5C0B9388--790CE4F>|<url|#auto-252>>|12.2 常见的参数化方法>>
-
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5441B9A0--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5441B9A0--790CE4F>|<url|#auto-253>>|12.3 参数化的分类>>
-
-    <with|par-left|1tab|<locus|<id|%23F54A629F8-23F5D3DD730--790CE4F>|<link|hyperlink|<id|%23F54A629F8-23F5D3DD730--790CE4F>|<url|#auto-254>>|12.4 基于弹簧能量的参数化方法>>
-
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%23F54A629F8-23F5D3EAC10-49468931>|<link|hyperlink|<id|%23F54A629F8-23F5D3EAC10-49468931>|<url|#auto-255>>|十三、Lab2 介绍>><vspace|0.5fn>
+    <vspace*|1fn><with|font-series|bold|math-font-series|bold|<locus|<id|%1E3CEDFD288-1E403237B60-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E403237B60-49468931>|<url|#auto-213>>|十三、Lab2 介绍>><vspace|0.5fn>
   </table-of-contents>
 
   \;
@@ -2719,7 +2635,7 @@
 
   <subsubsection*|使用方式>
 
-  渲染时，根据屏幕上该纹理区域的实际分辨率（一个像素覆盖多少纹理区域），自动选择金字塔中最匹配的层级来采样。实际工程中通常会选取相邻的两个层级，再在两级之间做线性插值，让过渡更平滑。
+  渲染时，根据屏幕上该纹理区域的实际分辨率（一个像素覆盖多少纹理区域），自动选择金字塔中最匹配的层级来采样。<underline|实际工程中通常会选取相邻的两个层级>，<underline|再在两级之间做线性插值>，让过渡更平滑。
 
   <subsection*|5.3 Mipmap的存储开销计算>
 
@@ -3390,52 +3306,10 @@
     <associate|auto-211|<tuple|?|?>>
     <associate|auto-212|<tuple|?|?>>
     <associate|auto-213|<tuple|?|?>>
-    <associate|auto-214|<tuple|?|?>>
-    <associate|auto-215|<tuple|?|?>>
-    <associate|auto-216|<tuple|?|?>>
-    <associate|auto-217|<tuple|?|?>>
-    <associate|auto-218|<tuple|?|?>>
-    <associate|auto-219|<tuple|?|?>>
     <associate|auto-22|<tuple|?|?>>
-    <associate|auto-220|<tuple|?|?>>
-    <associate|auto-221|<tuple|?|?>>
-    <associate|auto-222|<tuple|?|?>>
-    <associate|auto-223|<tuple|?|?>>
-    <associate|auto-224|<tuple|?|?>>
-    <associate|auto-225|<tuple|?|?>>
-    <associate|auto-226|<tuple|?|?>>
-    <associate|auto-227|<tuple|?|?>>
-    <associate|auto-228|<tuple|?|?>>
-    <associate|auto-229|<tuple|?|?>>
     <associate|auto-23|<tuple|?|?>>
-    <associate|auto-230|<tuple|?|?>>
-    <associate|auto-231|<tuple|?|?>>
-    <associate|auto-232|<tuple|?|?>>
-    <associate|auto-233|<tuple|?|?>>
-    <associate|auto-234|<tuple|?|?>>
-    <associate|auto-235|<tuple|?|?>>
-    <associate|auto-236|<tuple|?|?>>
-    <associate|auto-237|<tuple|?|?>>
-    <associate|auto-238|<tuple|?|?>>
-    <associate|auto-239|<tuple|?|?>>
     <associate|auto-24|<tuple|?|?>>
-    <associate|auto-240|<tuple|?|?>>
-    <associate|auto-241|<tuple|?|?>>
-    <associate|auto-242|<tuple|?|?>>
-    <associate|auto-243|<tuple|?|?>>
-    <associate|auto-244|<tuple|?|?>>
-    <associate|auto-245|<tuple|?|?>>
-    <associate|auto-246|<tuple|?|?>>
-    <associate|auto-247|<tuple|?|?>>
-    <associate|auto-248|<tuple|?|?>>
-    <associate|auto-249|<tuple|?|?>>
     <associate|auto-25|<tuple|?|?>>
-    <associate|auto-250|<tuple|?|?>>
-    <associate|auto-251|<tuple|?|?>>
-    <associate|auto-252|<tuple|?|?>>
-    <associate|auto-253|<tuple|?|?>>
-    <associate|auto-254|<tuple|?|?>>
-    <associate|auto-255|<tuple|?|?>>
     <associate|auto-26|<tuple|?|?>>
     <associate|auto-27|<tuple|?|?>>
     <associate|auto-28|<tuple|?|?>>
@@ -3517,522 +3391,437 @@
     <associate|auto-97|<tuple|?|?>>
     <associate|auto-98|<tuple|?|?>>
     <associate|auto-99|<tuple|?|?>>
-    <associate|equation-eq-started-image-poisson|<tuple|?|?>>
   </collection>
 </references>
 
 <\auxiliary>
   <\collection>
     <\associate|toc>
-      <vspace*|2fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-size|<quote|1.19>|<locus|<id|%1E3CEDFD288-1E3D73D2DC0-3F6C9B27>|<link|hyperlink|<id|%1E3CEDFD288-1E3D73D2DC0-3F6C9B27>|<url|#auto-1>>|LESSON ONE 0914早八>><vspace|1fn>
+      <vspace*|2fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-size|<quote|1.19>|<locus|<id|%1E3CEDFD288-1E3D5690F58-3F6C9B27>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5690F58-3F6C9B27>|<url|#auto-1>>|LESSON ONE 0914早八>><vspace|1fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D592B538-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D592B538-49468931>|<url|#auto-2>>|一、课程导入>><vspace|0.5fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D729D6C8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D729D6C8-49468931>|<url|#auto-2>>|二、显示设备的发展>><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D73DA190-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D73DA190-49468931>|<url|#auto-3>>|二、显示设备的发展>><vspace|0.5fn>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D597AA38--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D597AA38--790CE4F>|<url|#auto-3>>|2.1 早期显示设备：从数码管到CRT>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D592CF10--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D592CF10--790CE4F>|<url|#auto-4>>|2.1 早期显示设备：从数码管到CRT>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5160CE0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5160CE0--790CE4F>|<url|#auto-4>>|2.2 CRT显示器：从矢量显示到二维光栅显示>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D592CF10--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D592CF10--790CE4F>|<url|#auto-5>>|2.2 CRT显示器：从矢量显示到二维光栅显示>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D51F30E8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51F30E8--790CE4F>|<url|#auto-5>>|2.3 彩色显示与颜色空间>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D568ED88--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D568ED88--790CE4F>|<url|#auto-6>>|2.3 彩色显示与颜色空间>>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D51E2E78--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51E2E78--EE108B>|<url|#auto-6>>|（1）RGB颜色空间>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D593AF10--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D593AF10--EE108B>|<url|#auto-7>>|（1）RGB颜色空间>>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D514F448--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D514F448--EE108B>|<url|#auto-7>>|（2）HSV颜色空间>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D593B170--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D593B170--EE108B>|<url|#auto-8>>|（2）HSV颜色空间>>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D5217030--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5217030--EE108B>|<url|#auto-8>>|（3）色域与人眼可见范围>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D5943E20--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5943E20--EE108B>|<url|#auto-9>>|（3）色域与人眼可见范围>>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E40367F1F8--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E40367F1F8--EE108B>|<url|#auto-9>>|（4）伽马校正与颜色位深>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D5945320--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5945320--EE108B>|<url|#auto-10>>|（4）伽马校正与颜色位深>>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D73FA4C0--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D73FA4C0--EE108B>|<url|#auto-10>>|（5）CMYK色彩空间>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D568F6D0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D568F6D0--790CE4F>|<url|#auto-11>>|2.4 LCD液晶显示器>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E4030DC3D0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E4030DC3D0--790CE4F>|<url|#auto-11>>|2.4 LCD液晶显示器>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5957278--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5957278--790CE4F>|<url|#auto-12>>|2.5 OLED有机发光显示器>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E403308E00--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E403308E00--790CE4F>|<url|#auto-12>>|2.5 OLED有机发光显示器>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D595B1E0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D595B1E0--790CE4F>|<url|#auto-13>>|2.6 色域标准>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E40330E3F8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E40330E3F8--790CE4F>|<url|#auto-13>>|2.6 色域标准>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5954268--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5954268--790CE4F>|<url|#auto-14>>|2.7 分辨率的发展>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E40EDDB0E8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E40EDDB0E8--790CE4F>|<url|#auto-14>>|2.7 分辨率的发展>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5958798--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5958798--790CE4F>|<url|#auto-15>>|2.8 立体显示技术展望>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D51D7AC8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51D7AC8--790CE4F>|<url|#auto-15>>|2.8 立体显示技术展望>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D595F270--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D595F270--EE108B>|<url|#auto-16>>|（1）双目视觉原理>>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D59830B0--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D59830B0--EE108B>|<url|#auto-16>>|（1）双目视觉原理>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D5960890--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5960890--EE108B>|<url|#auto-17>>|（2）偏振3D与头显技术>>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E40330B1A8--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E40330B1A8--EE108B>|<url|#auto-17>>|（2）偏振3D与头显技术>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D595EBE8--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D595EBE8--EE108B>|<url|#auto-18>>|（3）AR/VR/MR>>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E40331A9F0--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E40331A9F0--EE108B>|<url|#auto-18>>|（3）AR/VR/MR>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D596A520--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D596A520--EE108B>|<url|#auto-19>>|（4）裸眼3D与全息显示>>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E4033180D0--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E4033180D0--EE108B>|<url|#auto-19>>|（4）裸眼3D与全息显示>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D5975FC0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5975FC0-49468931>|<url|#auto-20>>|三、色彩在可视化中的应用>><vspace|0.5fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D511C178-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D511C178-49468931>|<url|#auto-20>>|三、色彩在可视化中的应用>><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D596F6B8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D596F6B8-49468931>|<url|#auto-21>>|四、图像的定义与表达>><vspace|0.5fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D5173980-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5173980-49468931>|<url|#auto-21>>|四、图像的定义与表达>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5977B08--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5977B08--790CE4F>|<url|#auto-22>>|4.1 图像的数学定义：连续与离散>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E403279B20--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E403279B20--790CE4F>|<url|#auto-22>>|4.1 图像的数学定义：连续与离散>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D59818C0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D59818C0--790CE4F>|<url|#auto-23>>|4.2 矢量图与光栅图>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E4032FE5C0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E4032FE5C0--790CE4F>|<url|#auto-23>>|4.2 矢量图与光栅图>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D5975960--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5975960--EE108B>|<url|#auto-24>>|（1）矢量图>>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D505A988--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D505A988--EE108B>|<url|#auto-24>>|（1）矢量图>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D597E9F8--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D597E9F8--EE108B>|<url|#auto-25>>|（2）光栅图（位图）>>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E4032F8F28--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E4032F8F28--EE108B>|<url|#auto-25>>|（2）光栅图（位图）>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D59D2280--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D59D2280--EE108B>|<url|#auto-26>>|（3）两者的对比>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E4032FE618-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E4032FE618-49468931>|<url|#auto-26>>|五、帧缓冲区与GPU基础>><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D59D1250-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D59D1250-49468931>|<url|#auto-27>>|五、帧缓冲区与GPU基础>><vspace|0.5fn>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E403302300--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E403302300--790CE4F>|<url|#auto-27>>|5.1 GPU的诞生与图形管线>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D59702D8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D59702D8--790CE4F>|<url|#auto-28>>|5.1 GPU的诞生与图形管线>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E4031D92A0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E4031D92A0--790CE4F>|<url|#auto-28>>|5.2 帧缓冲区（Frame Buffer）>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D59CFD48--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D59CFD48--790CE4F>|<url|#auto-29>>|5.2 帧缓冲区（Frame Buffer）>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5944528--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5944528--790CE4F>|<url|#auto-29>>|5.3 图像存储格式>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D59DEDE0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D59DEDE0--790CE4F>|<url|#auto-30>>|5.3 图像存储格式>>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D4F27C48--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4F27C48--EE108B>|<url|#auto-30>>|（1）调色板格式（GIF）>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D597E058--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D597E058--EE108B>|<url|#auto-31>>|（1）调色板格式（GIF）>>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D5170F58--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5170F58--EE108B>|<url|#auto-31>>|（2）其他常见格式>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D59DEBD0--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D59DEBD0--EE108B>|<url|#auto-32>>|（2）其他常见格式>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D51CF630--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51CF630--790CE4F>|<url|#auto-32>>|5.4 Alpha通道与图像合成>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D59E9340--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D59E9340--790CE4F>|<url|#auto-33>>|5.4 Alpha通道与图像合成>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E403000B48--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E403000B48--790CE4F>|<url|#auto-33>>|5.5 深度缓冲（Z-Buffer）>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D59EEEE0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D59EEEE0--790CE4F>|<url|#auto-34>>|5.5 深度缓冲（Z-Buffer）>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E403005830--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E403005830--790CE4F>|<url|#auto-34>>|5.6 双缓冲区>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7D19DD8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7D19DD8--790CE4F>|<url|#auto-35>>|5.6 双缓冲区>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3CEC19260-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3CEC19260-49468931>|<url|#auto-35>>|六、图像处理概述与课程预告>><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7E8E380-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7E8E380-49468931>|<url|#auto-36>>|六、图像处理概述与课程预告>><vspace|0.5fn>
+      <vspace*|2fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-size|<quote|1.19>|<locus|<id|%1E3CEDFD288-1E3D50B37F8-3F6C9B27>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50B37F8-3F6C9B27>|<url|#auto-36>>|LESSON 2 0915早十>><vspace|1fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7EA99A0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7EA99A0--790CE4F>|<url|#auto-37>>|课程预告>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E40ECB9BA0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E40ECB9BA0-49468931>|<url|#auto-37>>|图像处理：抖动、量化、滤波、边缘提取、补全与抠图>><vspace|0.5fn>
 
-      <vspace*|2fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-size|<quote|1.19>|<locus|<id|%1E3CEDFD288-1E3D7E826C8-3F6C9B27>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7E826C8-3F6C9B27>|<url|#auto-38>>|LESSON 2 0915早十>><vspace|1fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E4033C4A98-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E4033C4A98-49468931>|<url|#auto-38>>|一、图像处理引入>><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7EAD6B0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7EAD6B0-49468931>|<url|#auto-39>>|图像处理：抖动、量化、滤波、边缘提取、补全与抠图>><vspace|0.5fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E40EE36A20-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E40EE36A20-49468931>|<url|#auto-39>>|二、抖动与量化>><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7EAA058-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7EAA058-49468931>|<url|#auto-40>>|一、图像处理引入>><vspace|0.5fn>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D524E890--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D524E890--790CE4F>|<url|#auto-40>>|1. 背景>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7D19F90-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7D19F90-49468931>|<url|#auto-41>>|二、抖动与量化>><vspace|0.5fn>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E4030748F0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E4030748F0--790CE4F>|<url|#auto-41>>|2. 直接二值化的问题>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7EB31F8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7EB31F8--790CE4F>|<url|#auto-42>>|1. 背景>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E40ECB0B10--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E40ECB0B10--790CE4F>|<url|#auto-42>>|3. 抖动的思想>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7EB35E8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7EB35E8--790CE4F>|<url|#auto-43>>|2. 直接二值化的问题>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E4031A5260-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E4031A5260-49468931>|<url|#auto-43>>|三、白噪声与蓝噪声>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7EB89A0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7EB89A0--790CE4F>|<url|#auto-44>>|3. 抖动的思想>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E4031B60C8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E4031B60C8-49468931>|<url|#auto-44>>|四、滤波与模糊>><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7ECCBD0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7ECCBD0-49468931>|<url|#auto-45>>|三、白噪声与蓝噪声>><vspace|0.5fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D518A6F0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D518A6F0-49468931>|<url|#auto-45>>|五、有序抖动与空间换颜色>><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7ED0C80-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7ED0C80-49468931>|<url|#auto-46>>|四、滤波与模糊>><vspace|0.5fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E40319D338-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E40319D338-49468931>|<url|#auto-46>>|六、Floyd-Steinberg 抖动>><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7ED7FB8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7ED7FB8-49468931>|<url|#auto-47>>|五、有序抖动与空间换颜色>><vspace|0.5fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E40319FDE8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E40319FDE8-49468931>|<url|#auto-47>>|七、图像滤波与卷积<with|font-shape|<quote|italic>|image filtering>>><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7EDF1A8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7EDF1A8-49468931>|<url|#auto-48>>|六、Floyd-Steinberg 抖动>><vspace|0.5fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E4031A0058-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E4031A0058-49468931>|<url|#auto-48>>|八、边缘提取、Sobel 与拉普拉斯>><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7EE0B00-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7EE0B00-49468931>|<url|#auto-49>>|七、图像滤波与卷积<with|font-shape|<quote|italic>|image filtering>>><vspace|0.5fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D4F03918-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4F03918-49468931>|<url|#auto-49>>|九、频率的直观理解>><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7EF9BC0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7EF9BC0-49468931>|<url|#auto-50>>|八、边缘提取、Sobel 与拉普拉斯>><vspace|0.5fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D5276F08-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5276F08-49468931>|<url|#auto-50>>|十、图像补全与拉普拉斯编辑>><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7D1EEF8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7D1EEF8-49468931>|<url|#auto-51>>|九、频率的直观理解>><vspace|0.5fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3CEBC8440-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3CEBC8440-49468931>|<url|#auto-51>>|十一、图像克隆、融合与泊松编辑>><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7F095D8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F095D8-49468931>|<url|#auto-52>>|十、图像补全与拉普拉斯编辑>><vspace|0.5fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E4030FCBE8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E4030FCBE8-49468931>|<url|#auto-52>>|十二、抠图>><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7F11040-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F11040-49468931>|<url|#auto-53>>|十一、图像克隆、融合与泊松编辑>><vspace|0.5fn>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E403108700--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E403108700--790CE4F>|<url|#auto-53>>|问题描述>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7F1AD90-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F1AD90-49468931>|<url|#auto-54>>|十二、泊松方程的离散求解>><vspace|0.5fn>
+      <vspace*|2fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-size|<quote|1.19>|<locus|<id|%1E3CEDFD288-1E4036B7960-3F6C9B27>|<link|hyperlink|<id|%1E3CEDFD288-1E4036B7960-3F6C9B27>|<url|#auto-54>>|LESSON 3 2026-09-21 第1-2节>><vspace|1fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7F26BB0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F26BB0-49468931>|<url|#auto-55>>|十三、抠图>><vspace|0.5fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E4030AC488-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E4030AC488-49468931>|<url|#auto-55>>|一、课程导入与内容安排>><vspace|0.5fn>
 
-      <vspace*|2fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-size|<quote|1.19>|<locus|<id|%1E3CEDFD288-1E3D7F2B2F0-3F6C9B27>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F2B2F0-3F6C9B27>|<url|#auto-56>>|LESSON 3 2026-09-21 第1-2节>><vspace|1fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7E7BD58-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7E7BD58-49468931>|<url|#auto-56>>|二、光栅化绘制的背景与核心需求>><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7F30BD8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F30BD8-49468931>|<url|#auto-57>>|一、课程导入与内容安排>><vspace|0.5fn>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E4030F6BF0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E4030F6BF0--790CE4F>|<url|#auto-57>>|2.1 显示硬件的演进：从矢量到光栅>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7F39A20-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F39A20-49468931>|<url|#auto-58>>|二、光栅化绘制的背景与核心需求>><vspace|0.5fn>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E4030F8228--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E4030F8228--790CE4F>|<url|#auto-58>>|2.2 帧缓冲区与光栅化流程>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7F3BAE8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F3BAE8--790CE4F>|<url|#auto-59>>|2.1 显示硬件的演进：从矢量到光栅>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E40307B718--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E40307B718--790CE4F>|<url|#auto-59>>|2.4 扫描绘制的核心目标>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7F39A78--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F39A78--790CE4F>|<url|#auto-60>>|2.2 帧缓冲区与光栅化流程>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D59420E8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D59420E8-49468931>|<url|#auto-60>>|三、直线绘制的基础算法>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7F370E8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F370E8--790CE4F>|<url|#auto-61>>|2.3 画线操作的普遍性与性能要求>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E40300DCC8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E40300DCC8--790CE4F>|<url|#auto-61>>|3.1 暴力算法及其缺陷>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7F35070--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F35070--790CE4F>|<url|#auto-62>>|2.4 扫描绘制的核心目标>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7F113E0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F113E0--790CE4F>|<url|#auto-62>>|3.2 <with|text-bg-color|<quote|#ffe47f>|朴素迭代算法>>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7F454F0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F454F0-49468931>|<url|#auto-63>>|三、直线绘制的基础算法>><vspace|0.5fn>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3CEC66548--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3CEC66548--790CE4F>|<url|#auto-63>>|3.3 朴素算法的性能分析>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7F43278--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F43278--790CE4F>|<url|#auto-64>>|3.1 暴力算法及其缺陷>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7342758-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7342758-49468931>|<url|#auto-64>>|四、DDA数字微分分析仪算法>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7F44090--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F44090--790CE4F>|<url|#auto-65>>|3.2 朴素迭代算法>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D594B960--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D594B960--790CE4F>|<url|#auto-65>>|4.1 优化思路：乘法转加法迭代>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7F55930--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F55930--790CE4F>|<url|#auto-66>>|3.3 朴素算法的性能分析>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5932360--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5932360--790CE4F>|<url|#auto-66>>|4.2 算法步骤>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7D21BA8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7D21BA8-49468931>|<url|#auto-67>>|四、DDA数字微分分析仪算法>><vspace|0.5fn>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5961EC0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5961EC0--790CE4F>|<url|#auto-67>>|4.3 仍然存在的问题>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7F5ABF8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F5ABF8--790CE4F>|<url|#auto-68>>|4.1 优化思路：乘法转加法迭代>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D5942950-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5942950-49468931>|<url|#auto-68>>|五、<with|text-bg-color|<quote|#ffe47f>|布雷森汉姆>（Bresenham）直线算法>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D73ACB28--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D73ACB28--790CE4F>|<url|#auto-69>>|4.2 算法步骤>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5953090--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5953090--790CE4F>|<url|#auto-69>>|5.1 核心观察：像素步进的二选一>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4E88DB0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4E88DB0--790CE4F>|<url|#auto-70>>|4.3 仍然存在的问题>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D59743C0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D59743C0--790CE4F>|<url|#auto-70>>|5.2 中点判定法与隐函数思想>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D4E82790-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4E82790-49468931>|<url|#auto-71>>|五、<with|text-bg-color|<quote|#ffe47f>|布雷森汉姆>（Bresenham）直线算法>><vspace|0.5fn>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E403319BF0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E403319BF0--790CE4F>|<url|#auto-71>>|5.3 构造整数隐函数>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4E7FB68--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4E7FB68--790CE4F>|<url|#auto-72>>|5.1 核心观察：像素步进的二选一>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7EA5DA8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7EA5DA8--790CE4F>|<url|#auto-72>>|5.4 判别式的迭代更新>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4E88628--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4E88628--790CE4F>|<url|#auto-73>>|5.2 中点判定法与隐函数思想>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7EFA488--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7EFA488--790CE4F>|<url|#auto-73>>|5.5 算法推导与迭代过程>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4E7FE08--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4E7FE08--790CE4F>|<url|#auto-74>>|5.3 构造整数隐函数>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7104EC8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7104EC8--790CE4F>|<url|#auto-74>>|5.6 算法伪代码>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4E9A738--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4E9A738--790CE4F>|<url|#auto-75>>|5.4 判别式的迭代更新>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D59F12A8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D59F12A8--790CE4F>|<url|#auto-75>>|5.7 算法意义>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4EA0530--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4EA0530--790CE4F>|<url|#auto-76>>|5.5 算法推导与迭代过程>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7EC3998-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7EC3998-49468931>|<url|#auto-76>>|六、直线算法的扩展>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7F5F758--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F5F758--790CE4F>|<url|#auto-77>>|5.6 算法伪代码>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7ECC230--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7ECC230--790CE4F>|<url|#auto-77>>|6.1 全空间直线的八分区处理>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4EC3C10--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4EC3C10--790CE4F>|<url|#auto-78>>|5.7 算法意义>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3CEBFD528--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3CEBFD528--790CE4F>|<url|#auto-78>>|6.2 扩展到画圆>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D57B32E8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D57B32E8-49468931>|<url|#auto-79>>|六、直线算法的扩展>><vspace|0.5fn>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D59E4330--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D59E4330--790CE4F>|<url|#auto-79>>|6.3 多边形扫描线算法>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4EAB768--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4EAB768--790CE4F>|<url|#auto-80>>|6.1 全空间直线的八分区处理>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7EF43C0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7EF43C0--790CE4F>|<url|#auto-80>>|6.4 凹多边形与三角化>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4ED1970--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4ED1970--790CE4F>|<url|#auto-81>>|6.2 扩展到画圆>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D596F6B8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D596F6B8-49468931>|<url|#auto-81>>|七、颜色插值与图像变形>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4ED26E8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4ED26E8--790CE4F>|<url|#auto-82>>|6.3 多边形扫描线算法>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7EA9E00--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7EA9E00--790CE4F>|<url|#auto-82>>|7.1 颜色线性插值>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4ECDA58--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4ECDA58--790CE4F>|<url|#auto-83>>|6.4 凹多边形与三角化>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7D1EC90--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7D1EC90--790CE4F>|<url|#auto-83>>|7.2 双线性插值>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D4ED0590-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4ED0590-49468931>|<url|#auto-84>>|七、颜色插值与图像变形>><vspace|0.5fn>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7EF2D10--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7EF2D10--790CE4F>|<url|#auto-84>>|7.3 图像变形（Image Warping）>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4EDEC78--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4EDEC78--790CE4F>|<url|#auto-85>>|7.1 颜色线性插值>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7F01738--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F01738--790CE4F>|<url|#auto-85>>|7.4 交互式形变的实现>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4ED6EB0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4ED6EB0--790CE4F>|<url|#auto-86>>|7.2 双线性插值>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D59628A8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D59628A8--790CE4F>|<url|#auto-86>>|7.5 四边形插值的两种方式>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4EE8DD8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4EE8DD8--790CE4F>|<url|#auto-87>>|7.3 图像变形（Image Warping）>>
+      <vspace*|2fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-size|<quote|1.19>|<locus|<id|%1E3CEDFD288-1E3D7F47130-3F6C9B27>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F47130-3F6C9B27>|<url|#auto-87>>|LESSON 4 2026-09-22 第5-6节>><vspace|1fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4EF0A30--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4EF0A30--790CE4F>|<url|#auto-88>>|7.4 交互式形变的实现>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7F5C4D0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F5C4D0-49468931>|<url|#auto-88>>|显式曲线>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7F621A0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F621A0--790CE4F>|<url|#auto-89>>|7.5 四边形插值的两种方式>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7318BC8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7318BC8-49468931>|<url|#auto-89>>|隐式曲线>><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D4EFBA98-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4EFBA98-49468931>|<url|#auto-90>>|八、曲线内容展望>><vspace|0.5fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7F5BB50-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F5BB50-49468931>|<url|#auto-90>>|参数化曲线>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4EFA378--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4EFA378--790CE4F>|<url|#auto-91>>|8.1 曲线的表达需求>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7F4D750--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F4D750--790CE4F>|<url|#auto-91>>|参数化曲线的定义与优势>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4EFA4B0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4EFA4B0--790CE4F>|<url|#auto-92>>|8.2 矢量图与曲线>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4E90CB0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4E90CB0--790CE4F>|<url|#auto-92>>|多项式曲线及其不足>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4EFDFE0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4EFDFE0--790CE4F>|<url|#auto-93>>|8.3 工业领域的曲线应用：CAD/CAE/CAM>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E403369F60-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E403369F60-49468931>|<url|#auto-93>>|插值与基函数基础>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4F08FE8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4F08FE8--790CE4F>|<url|#auto-94>>|8.4 后续课程预告>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E402CF8180--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E402CF8180--790CE4F>|<url|#auto-94>>|线性插值>>
 
-      <vspace*|2fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-size|<quote|1.19>|<locus|<id|%1E3CEDFD288-1E3D4F05AE0-3F6C9B27>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4F05AE0-3F6C9B27>|<url|#auto-95>>|LESSON 4 2026-09-22 第5-6节>><vspace|1fn>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4E92D18--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4E92D18--790CE4F>|<url|#auto-95>>|基函数的概念>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D4F0EC48-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4F0EC48-49468931>|<url|#auto-96>>|课程导入>><vspace|0.5fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E402E35438-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E402E35438-49468931>|<url|#auto-96>>|贝塞尔曲线>><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D4EFC9C0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4EFC9C0-49468931>|<url|#auto-97>>|显式曲线>><vspace|0.5fn>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D55B1B30--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D55B1B30--790CE4F>|<url|#auto-97>>|直观认识与构造过程>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D4F0B7D0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4F0B7D0-49468931>|<url|#auto-98>>|隐式曲线>><vspace|0.5fn>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E403583560--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E403583560--790CE4F>|<url|#auto-98>>|阶数与递归构造>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D4F12250-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4F12250-49468931>|<url|#auto-99>>|参数化曲线>><vspace|0.5fn>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E403677A70--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E403677A70--790CE4F>|<url|#auto-99>>|代码实现思路>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4F14148--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4F14148--790CE4F>|<url|#auto-100>>|参数化曲线的定义与优势>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4EA7030--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4EA7030--790CE4F>|<url|#auto-100>>|数学形式与伯恩斯坦基函数>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4F224E0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4F224E0--790CE4F>|<url|#auto-101>>|多项式曲线及其不足>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E402D06F70--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E402D06F70--790CE4F>|<url|#auto-101>>|数值稳定性与矩阵形式>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4F158C8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4F158C8--790CE4F>|<url|#auto-102>>|分段曲线的思路>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E4035B96A8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E4035B96A8--790CE4F>|<url|#auto-102>>|端点与切线性质>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D4F28A40-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4F28A40-49468931>|<url|#auto-103>>|插值与基函数基础>><vspace|0.5fn>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4ED5CE0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4ED5CE0--790CE4F>|<url|#auto-103>>|连续性：C连续与G连续>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4F1D650--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4F1D650--790CE4F>|<url|#auto-104>>|线性插值>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D71609D8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D71609D8--790CE4F>|<url|#auto-104>>|贝塞尔曲面（三维扩展）>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D57B7188--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D57B7188--790CE4F>|<url|#auto-105>>|基函数的概念>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E4036AFE18--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E4036AFE18--790CE4F>|<url|#auto-105>>|凸包性与局限性>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D4F9E720-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4F9E720-49468931>|<url|#auto-106>>|贝塞尔曲线>><vspace|0.5fn>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4F06BF8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4F06BF8--790CE4F>|<url|#auto-106>>|前沿拓展：犹他茶壶与G2连续问题>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4F9E720--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4F9E720--790CE4F>|<url|#auto-107>>|直观认识与构造过程>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D4F02458-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4F02458-49468931>|<url|#auto-107>>|其他参数化曲线>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4FAF750--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FAF750--790CE4F>|<url|#auto-108>>|阶数与递归构造>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E403558E98--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E403558E98--790CE4F>|<url|#auto-108>>|三次样条曲线>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4FB5510--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FB5510--790CE4F>|<url|#auto-109>>|代码实现思路>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4EF0260--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4EF0260--790CE4F>|<url|#auto-109>>|Catmull-Rom曲线与厄米曲线>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D57B8A08--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D57B8A08--790CE4F>|<url|#auto-110>>|数学形式与伯恩斯坦基函数>>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E40EE867F8--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E40EE867F8--EE108B>|<url|#auto-110>>|Catmull-Rom曲线>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4FBABB8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FBABB8--790CE4F>|<url|#auto-111>>|数值稳定性与矩阵形式>>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E4036592B8--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E4036592B8--EE108B>|<url|#auto-111>>|厄米曲线>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4FBFE60--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FBFE60--790CE4F>|<url|#auto-112>>|端点与切线性质>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5952628--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5952628--790CE4F>|<url|#auto-112>>|B样条曲线简介>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4FCBF20--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FCBF20--790CE4F>|<url|#auto-113>>|连续性：C连续与G连续>>
+      <vspace*|2fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-size|<quote|1.19>|<locus|<id|%1E3CEDFD288-1E40362B630-3F6C9B27>|<link|hyperlink|<id|%1E3CEDFD288-1E40362B630-3F6C9B27>|<url|#auto-113>>|LESSON 5.1（2026-09-28 第1-2节）>><vspace|1fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4FE2D98--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FE2D98--790CE4F>|<url|#auto-114>>|贝塞尔曲面（三维扩展）>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7F43C20-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F43C20-49468931>|<url|#auto-114>>|第1节 B样条曲线的引入（对应PPT第56页）>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4FC7AA8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FC7AA8--790CE4F>|<url|#auto-115>>|凸包性与局限性>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E4035E8DA8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E4035E8DA8--790CE4F>|<url|#auto-115>>|1.2 B样条曲线的定义式>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D57BA388--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D57BA388--790CE4F>|<url|#auto-116>>|前沿拓展：犹他茶壶与G2连续问题>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4FB0CC0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FB0CC0--790CE4F>|<url|#auto-116>>|1.3 核心基础概念：节点（Knot）>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D4FE9248-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FE9248-49468931>|<url|#auto-117>>|其他参数化曲线>><vspace|0.5fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D57B8178-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D57B8178-49468931>|<url|#auto-117>>|第2节 B样条基函数的递归定义（对应第57-58页）>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4FEAE88--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FEAE88--790CE4F>|<url|#auto-118>>|三次样条曲线>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E40EE936C0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E40EE936C0--790CE4F>|<url|#auto-118>>|2.1 递归起点：0阶B样条基函数>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4FF8438--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FF8438--790CE4F>|<url|#auto-119>>|Catmull-Rom曲线与厄米曲线>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4FCCE50--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FCCE50--790CE4F>|<url|#auto-119>>|2.2 Cox-de Boor递推公式>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D4FF6AA0--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FF6AA0--EE108B>|<url|#auto-120>>|Catmull-Rom曲线>>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D560A1E0--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D560A1E0--EE108B>|<url|#auto-120>>|公式解释：>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D4FF3768--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FF3768--EE108B>|<url|#auto-121>>|厄米曲线>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4FE7BD8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FE7BD8--790CE4F>|<url|#auto-121>>|2.3 低阶基函数的形态>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4FFC610--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FFC610--790CE4F>|<url|#auto-122>>|B样条曲线简介>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4F07E08--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4F07E08--790CE4F>|<url|#auto-122>>|2.4 基函数的核心性质：单位分解>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D5004F50-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5004F50-49468931>|<url|#auto-123>>|课堂问答>><vspace|0.5fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D57BAD60-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D57BAD60-49468931>|<url|#auto-123>>|第3节 B样条基函数的通用规律（对应第59-60页）>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4FFCC10--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FFCC10--790CE4F>|<url|#auto-124>>|问题1：C1连续和G1连续的核心区别是什么？>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4FEEE18--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FEEE18--790CE4F>|<url|#auto-124>>|3.1 局部支撑规律>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4FFE718--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FFE718--790CE4F>|<url|#auto-125>>|问题2：厄米曲线和贝塞尔曲线的对应关系是什么？>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5009D28--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5009D28--790CE4F>|<url|#auto-125>>|3.2 光滑性规律>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D57BBEA8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D57BBEA8--790CE4F>|<url|#auto-126>>|问题3：伯恩斯坦多项式可以表示任意多项式曲线吗？>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D7F11000--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7F11000--790CE4F>|<url|#auto-126>>|3.3 非负性与凸包性质>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5002B58--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5002B58--790CE4F>|<url|#auto-127>>|问题4：考试中曲线部分的考察重点是什么？>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E402CF9E68--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E402CF9E68--790CE4F>|<url|#auto-127>>|3.4 局部控制特性的本质>>
 
-      <vspace*|2fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-size|<quote|1.19>|<locus|<id|%1E3CEDFD288-1E3D4FEAF48-3F6C9B27>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4FEAF48-3F6C9B27>|<url|#auto-128>>|LESSON 5.1（2026-09-28 第1-2节）>><vspace|1fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E403072AC0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E403072AC0-49468931>|<url|#auto-128>>|第4节 三次均匀B样条的显式表达（对应第61-62页）>><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D5004D40-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5004D40-49468931>|<url|#auto-129>>|第1节 B样条曲线的引入（对应PPT第56页）>><vspace|0.5fn>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5030178--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5030178--790CE4F>|<url|#auto-129>>|4.1 参数归一化>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D50093F8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50093F8--790CE4F>|<url|#auto-130>>|1.1 贝塞尔曲线的控制特性回顾>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5031AE0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5031AE0--790CE4F>|<url|#auto-130>>|4.2 三次均匀B样条的显式基函数>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D501E148--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D501E148--790CE4F>|<url|#auto-131>>|1.2 B样条曲线的定义式>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5054148--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5054148--790CE4F>|<url|#auto-131>>|4.3 矩阵形式（便于编程计算）>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5025508--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5025508--790CE4F>|<url|#auto-132>>|1.3 核心基础概念：节点（Knot）>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5036DA8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5036DA8--790CE4F>|<url|#auto-132>>|4.4 凸包性质验证>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D5021198-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5021198-49468931>|<url|#auto-133>>|第2节 B样条基函数的递归定义（对应第57-58页）>><vspace|0.5fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D5051A30-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5051A30-49468931>|<url|#auto-133>>|第6节 三次B样条曲面片（对应第66页）>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5021C00--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5021C00--790CE4F>|<url|#auto-134>>|2.1 递归起点：0阶B样条基函数>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D504C7A0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D504C7A0--790CE4F>|<url|#auto-134>>|6.1 张量积构造思想>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D50341C0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50341C0--790CE4F>|<url|#auto-135>>|2.2 Cox-de Boor递推公式>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5030178--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5030178--790CE4F>|<url|#auto-135>>|6.2 曲面的数学表达式>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D5035B80--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5035B80--EE108B>|<url|#auto-136>>|公式解释：>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D508CFF0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D508CFF0--790CE4F>|<url|#auto-136>>|6.3 曲面的核心特性>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D503A410--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D503A410--790CE4F>|<url|#auto-137>>|2.3 低阶基函数的形态>>
+      <vspace*|2fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-size|<quote|1.19>|<locus|<id|%1E3CEDFD288-1E3D57C2928-3F6C9B27>|<link|hyperlink|<id|%1E3CEDFD288-1E3D57C2928-3F6C9B27>|<url|#auto-137>>|LESSON 5.2 反走样>><vspace|1fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5028230--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5028230--790CE4F>|<url|#auto-138>>|2.4 基函数的核心性质：单位分解>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3CEC66058-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3CEC66058-49468931>|<url|#auto-138>>|第1章 走样现象与本质>><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D50406C0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50406C0-49468931>|<url|#auto-139>>|第3节 B样条基函数的通用规律（对应第59-60页）>><vspace|0.5fn>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5085CE8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5085CE8--790CE4F>|<url|#auto-139>>|1.1 什么是走样>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5044508--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5044508--790CE4F>|<url|#auto-140>>|3.1 局部支撑规律>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E40EDD5618--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E40EDD5618--790CE4F>|<url|#auto-140>>|1.2 走样的直观成因>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D504F038--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D504F038--790CE4F>|<url|#auto-141>>|3.2 光滑性规律>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D5069A58-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5069A58-49468931>|<url|#auto-141>>|第2章 频域分析基础：傅里叶变换>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5051008--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5051008--790CE4F>|<url|#auto-142>>|3.3 非负性与凸包性质>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E40EEA6510--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E40EEA6510--790CE4F>|<url|#auto-142>>|2.1 一维傅里叶变换：从时域到频域>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5052708--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5052708--790CE4F>|<url|#auto-143>>|3.4 局部控制特性的本质>>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D73A29B0--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D73A29B0--EE108B>|<url|#auto-143>>|核心思想>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D505AE50-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D505AE50-49468931>|<url|#auto-144>>|第4节 三次均匀B样条的显式表达（对应第61-62页）>><vspace|0.5fn>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E40ED6B418--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E40ED6B418--EE108B>|<url|#auto-144>>|数学定义>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D50290A0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50290A0--790CE4F>|<url|#auto-145>>|4.1 参数归一化>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E403654DA0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E403654DA0--790CE4F>|<url|#auto-145>>|2.2 空间频率：从一维信号到二维图像>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D505ACD0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D505ACD0--790CE4F>|<url|#auto-146>>|4.2 三次均匀B样条的显式基函数>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D512A9E0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D512A9E0--790CE4F>|<url|#auto-146>>|2.3 二维傅里叶分解：图像的基底展开>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5067F90--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5067F90--790CE4F>|<url|#auto-147>>|4.3 矩阵形式（便于编程计算）>>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D51196A0--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51196A0--EE108B>|<url|#auto-147>>|典型基底与视觉形态>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D505F3B0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D505F3B0--790CE4F>|<url|#auto-148>>|4.4 凸包性质验证>>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E4030BBDD0--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E4030BBDD0--EE108B>|<url|#auto-148>>|图像的重建过程>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D505CA48-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D505CA48-49468931>|<url|#auto-149>>|第5节 三次B样条的分段逻辑与核心特性（对应第63-64页）>><vspace|0.5fn>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D511FAE8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D511FAE8--790CE4F>|<url|#auto-149>>|2.4 二维频谱的性质>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5070D08--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5070D08--790CE4F>|<url|#auto-150>>|5.1 滑动窗口的分段机制>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D513AD30-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D513AD30-49468931>|<url|#auto-150>>|第3章 采样定理与走样的数学本质>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5079008--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5079008--790CE4F>|<url|#auto-151>>|5.2 天然高阶连续性>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D513F998--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D513F998--790CE4F>|<url|#auto-151>>|3.1 离散采样的数学表达>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D50844F8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50844F8--790CE4F>|<url|#auto-152>>|5.3 与三次贝塞尔曲线的等价转换>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E402FFDFF0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E402FFDFF0--790CE4F>|<url|#auto-152>>|3.2 采样的频域效应：频谱周期延拓（完整推导）>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D50804C8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50804C8-49468931>|<url|#auto-153>>|第6节 三次B样条曲面片（对应第66页）>><vspace|0.5fn>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E4030B3980--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E4030B3980--EE108B>|<url|#auto-153>>|第一步：采样冲激串的频谱>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5085F78--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5085F78--790CE4F>|<url|#auto-154>>|6.1 张量积构造思想>>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D51577A0--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51577A0--EE108B>|<url|#auto-154>>|第二步：卷积的物理意义>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5085BA0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5085BA0--790CE4F>|<url|#auto-155>>|6.2 曲面的数学表达式>>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D5133628--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5133628--EE108B>|<url|#auto-155>>|核心结论>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D50955F8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50955F8--790CE4F>|<url|#auto-156>>|6.3 曲面的核心特性>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5154F88--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5154F88--790CE4F>|<url|#auto-156>>|3.3 奈奎斯特-香农采样定理>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D50988F8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50988F8-49468931>|<url|#auto-157>>|第7节 样条的推广：节点向量的一般理论（对应第67-71页）>><vspace|0.5fn>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D5153D98--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5153D98--EE108B>|<url|#auto-157>>|临界条件推导>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5095A88--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5095A88--790CE4F>|<url|#auto-158>>|7.1 节点与节点向量的严格定义>>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D5164068--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5164068--EE108B>|<url|#auto-158>>|定理正式表述>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D509F048--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D509F048--790CE4F>|<url|#auto-159>>|7.2 重节点的定义>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5037FD8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5037FD8--790CE4F>|<url|#auto-159>>|3.4 混叠的频率折叠效应>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D50A65A8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50A65A8--790CE4F>|<url|#auto-160>>|7.3 均匀节点与非均匀节点>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D504EAB8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D504EAB8--790CE4F>|<url|#auto-160>>|3.5 二维图像的采样与走样>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D50B4C20--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50B4C20--790CE4F>|<url|#auto-161>>|7.4 非均匀节点的核心作用>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D524B768-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D524B768-49468931>|<url|#auto-161>>|第4章 抗锯齿的核心机制：低通滤波>><vspace|0.5fn>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D50B4800--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50B4800--EE108B>|<url|#auto-162>>|（1）调整局部控制精度>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D548AA00--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D548AA00--790CE4F>|<url|#auto-162>>|4.1 抗锯齿的两种等价思路>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D50B92F0--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50B92F0--EE108B>|<url|#auto-163>>|（2）重节点控制曲线连续性>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E403691A10--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E403691A10--790CE4F>|<url|#auto-163>>|4.2 面积采样：光栅化中的低通实现>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D50B8438--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50B8438--790CE4F>|<url|#auto-164>>|7.5 重节点降低连续性的原理推导>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5196510--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5196510--790CE4F>|<url|#auto-164>>|4.3 常见的低通滤波核>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D50C3078--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50C3078--EE108B>|<url|#auto-165>>|实例验证（三次B样条，<with|mode|<quote|math>|(p=3)>）>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E402F711D8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E402F711D8--790CE4F>|<url|#auto-165>>|4.4 基于距离函数的滤波实现>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D50BE000-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50BE000-49468931>|<url|#auto-166>>|第8节 节点向量的类型与端点插值（对应第72-73页）>><vspace|0.5fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D51B06F8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51B06F8-49468931>|<url|#auto-166>>|第5章 纹理重采样与Mipmap技术>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D50C7B68--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50C7B68--790CE4F>|<url|#auto-167>>|8.1 节点间距对基函数权重的影响>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E403533E80--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E403533E80--790CE4F>|<url|#auto-167>>|5.1 图像映射中的走样问题>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D50DDAA0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50DDAA0--790CE4F>|<url|#auto-168>>|8.2 开节点向量与闭节点向量>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D51D0140--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51D0140--790CE4F>|<url|#auto-168>>|5.2 Mipmap：预滤波图像金字塔>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D50E4C68--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50E4C68--790CE4F>|<url|#auto-169>>|8.3 闭节点实现端点插值的原理>>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E40ECEAF38--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E40ECEAF38--EE108B>|<url|#auto-169>>|核心原理>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D50E4B60-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50E4B60-49468931>|<url|#auto-170>>|第9节 NURBS曲线（对应第74-75页）>><vspace|0.5fn>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E403038A28--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E403038A28--EE108B>|<url|#auto-170>>|使用方式>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D50E1358--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50E1358--790CE4F>|<url|#auto-171>>|9.1 核心扩展：控制点权重>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D51C79B0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51C79B0--790CE4F>|<url|#auto-171>>|5.3 Mipmap的存储开销计算>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D50E06F8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50E06F8--790CE4F>|<url|#auto-172>>|9.2 有理基函数与曲线表达式>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D51D5A70--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51D5A70--790CE4F>|<url|#auto-172>>|5.4 透视场景下的层级计算>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D50CCE58--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50CCE58--790CE4F>|<url|#auto-173>>|9.3 权重的几何意义>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D51CD4F8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51CD4F8-49468931>|<url|#auto-173>>|第6章 几何光栅化抗锯齿技术>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D50F3A90--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50F3A90--790CE4F>|<url|#auto-174>>|9.4 与普通B样条的包含关系>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D51DC948--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51DC948--790CE4F>|<url|#auto-174>>|6.1 超采样抗锯齿（SSAA）>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D50E2818--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50E2818--790CE4F>|<url|#auto-175>>|9.5 齐次坐标视角下的NURBS推导>>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D73C8DC8--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D73C8DC8--EE108B>|<url|#auto-175>>|实现原理>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D50EA440--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50EA440--EE108B>|<url|#auto-176>>|步骤1：控制点升维到齐次空间>>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D51D43E0--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51D43E0--EE108B>|<url|#auto-176>>|采样点布局>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D50D0170--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50D0170--EE108B>|<url|#auto-177>>|步骤2：齐次空间中做普通B样条插值>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D72DB1F8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D72DB1F8--790CE4F>|<url|#auto-177>>|6.2 多重采样抗锯齿（MSAA）>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D50F99A8--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50F99A8--EE108B>|<url|#auto-178>>|步骤3：透视投影得到三维NURBS>>
+      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D51F0C58--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51F0C58--EE108B>|<url|#auto-178>>|核心思想>>
 
-      <vspace*|2fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-size|<quote|1.19>|<locus|<id|%1E3CEDFD288-1E3D50FAE98-3F6C9B27>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50FAE98-3F6C9B27>|<url|#auto-179>>|LESSON 5.2 反走样>><vspace|1fn>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E403063860--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E403063860--790CE4F>|<url|#auto-179>>|6.3 SSAA与MSAA的对比>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D5101998-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5101998-49468931>|<url|#auto-180>>|第1章 走样现象与本质>><vspace|0.5fn>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5200CD0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5200CD0--790CE4F>|<url|#auto-180>>|6.4 几何走样与着色走样的区分>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D50FAC10--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50FAC10--790CE4F>|<url|#auto-181>>|1.1 什么是走样>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D73C7968-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D73C7968-49468931>|<url|#auto-181>>|全书知识框架总结>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D50FBA10--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50FBA10--790CE4F>|<url|#auto-182>>|1.2 走样的直观成因>>
+      <vspace*|2fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-size|<quote|1.19>|<locus|<id|%1E3CEDFD288-1E3D5936EF0-3F6C9B27>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5936EF0-3F6C9B27>|<url|#auto-182>>|LESSON 6 2026-09-29 第5-6节>><vspace|1fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D50FE958-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50FE958-49468931>|<url|#auto-183>>|第2章 频域分析基础：傅里叶变换>><vspace|0.5fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E40301F238-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E40301F238-49468931>|<url|#auto-183>>|一、课程导入与安排>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5100D90--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5100D90--790CE4F>|<url|#auto-184>>|2.1 一维傅里叶变换：从时域到频域>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D5225258-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5225258-49468931>|<url|#auto-184>>|二、几何概述>><vspace|0.5fn>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D51085A0--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51085A0--EE108B>|<url|#auto-185>>|核心思想>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D4F1AAB8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D4F1AAB8--790CE4F>|<url|#auto-185>>|2.1 几何的词源与研究对象>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D5109B80--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5109B80--EE108B>|<url|#auto-186>>|数学定义>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D54895C8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D54895C8--790CE4F>|<url|#auto-186>>|2.2 经典几何模型：犹他茶壶>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5108EC0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5108EC0--790CE4F>|<url|#auto-187>>|2.2 空间频率：从一维信号到二维图像>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D55B5080--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D55B5080--790CE4F>|<url|#auto-187>>|2.3 图形学经典数据集：斯坦福四大模型>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D511B7A0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D511B7A0--790CE4F>|<url|#auto-188>>|2.3 二维傅里叶分解：图像的基底展开>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D5942460-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5942460-49468931>|<url|#auto-188>>|三、几何的表达分类>><vspace|0.5fn>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D5119870--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5119870--EE108B>|<url|#auto-189>>|典型基底与视觉形态>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5223C68--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5223C68--790CE4F>|<url|#auto-189>>|3.1 显式表达>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D511E658--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D511E658--EE108B>|<url|#auto-190>>|图像的重建过程>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D72E0690--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D72E0690--790CE4F>|<url|#auto-190>>|3.2 隐式表达>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5121708--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5121708--790CE4F>|<url|#auto-191>>|2.4 二维频谱的性质>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D524FCB0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D524FCB0-49468931>|<url|#auto-191>>|四、点云与激光扫描技术>><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D512E890-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D512E890-49468931>|<url|#auto-192>>|第3章 采样定理与走样的数学本质>><vspace|0.5fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D5264AD8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5264AD8-49468931>|<url|#auto-192>>|五、多边形网格基础>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5129D00--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5129D00--790CE4F>|<url|#auto-193>>|3.1 离散采样的数学表达>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D526CFE0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D526CFE0-49468931>|<url|#auto-193>>|六、三角网格的存储方式>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D512FB00--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D512FB00--790CE4F>|<url|#auto-194>>|3.2 采样的频域效应：频谱周期延拓（完整推导）>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5244038--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5244038--790CE4F>|<url|#auto-194>>|6.1 OBJ格式>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D512F5A8--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D512F5A8--EE108B>|<url|#auto-195>>|第一步：采样冲激串的频谱>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D52631B8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D52631B8--790CE4F>|<url|#auto-195>>|6.2 Triangle Soup（三角汤）>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D51354B8--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51354B8--EE108B>|<url|#auto-196>>|第二步：卷积的物理意义>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5257438--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5257438--790CE4F>|<url|#auto-196>>|6.3 两种存储方式的对比>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D5131258--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5131258--EE108B>|<url|#auto-197>>|核心结论>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E402E01CD8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E402E01CD8--790CE4F>|<url|#auto-197>>|6.4 邻接关系的预计算>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D513DBB8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D513DBB8--790CE4F>|<url|#auto-198>>|3.3 奈奎斯特-香农采样定理>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D527D0C0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D527D0C0-49468931>|<url|#auto-198>>|七、半边数据结构（Half-Edge Data Structure）>><vspace|0.5fn>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D513A720--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D513A720--EE108B>|<url|#auto-199>>|临界条件推导>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5259740--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5259740--790CE4F>|<url|#auto-199>>|<with|text-bg-color|<quote|#ffe47f>|7.1 数据结构定义>>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D5147718--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5147718--EE108B>|<url|#auto-200>>|定理正式表述>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E403084080--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E403084080--790CE4F>|<url|#auto-200>>|7.2 拓扑遍历操作>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D50D39E8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D50D39E8--790CE4F>|<url|#auto-201>>|3.4 混叠的频率折叠效应>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5281D80--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5281D80--790CE4F>|<url|#auto-201>>|7.3 应用特点>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5131200--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5131200--790CE4F>|<url|#auto-202>>|3.5 二维图像的采样与走样>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E40311B190-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E40311B190-49468931>|<url|#auto-202>>|八、面向渲染的专用网格结构>><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D5152BD8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5152BD8-49468931>|<url|#auto-203>>|第4章 抗锯齿的核心机制：低通滤波>><vspace|0.5fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E40308DCF0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E40308DCF0-49468931>|<url|#auto-203>>|九、四边形网格（Quad Mesh）>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5150CE0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5150CE0--790CE4F>|<url|#auto-204>>|4.1 抗锯齿的两种等价思路>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D7848D28-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D7848D28-49468931>|<url|#auto-204>>|十、多边形网格的优缺点>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D51614A8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51614A8--790CE4F>|<url|#auto-205>>|4.2 面积采样：光栅化中的低通实现>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D5983518-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5983518-49468931>|<url|#auto-205>>|十一、网格细分（Mesh Subdivision）>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D51677D0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51677D0--790CE4F>|<url|#auto-206>>|4.3 常见的低通滤波核>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5983518--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5983518--790CE4F>|<url|#auto-206>>|11.1 Catmull-Clark细分>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5170D08--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5170D08--790CE4F>|<url|#auto-207>>|4.4 基于距离函数的滤波实现>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E403299BD8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E403299BD8--790CE4F>|<url|#auto-207>>|11.2 Loop细分>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D5170EC8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5170EC8-49468931>|<url|#auto-208>>|第5章 纹理重采样与Mipmap技术>><vspace|0.5fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E40328AC38-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E40328AC38-49468931>|<url|#auto-208>>|十二、网格参数化（Mesh Parameterization）>><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5172340--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5172340--790CE4F>|<url|#auto-209>>|5.1 图像映射中的走样问题>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E4031C5278--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E4031C5278--790CE4F>|<url|#auto-209>>|12.1 概念与应用>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D517DA90--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D517DA90--790CE4F>|<url|#auto-210>>|5.2 Mipmap：预滤波图像金字塔>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E4032471E8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E4032471E8--790CE4F>|<url|#auto-210>>|12.2 常见的参数化方法>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D517C5C0--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D517C5C0--EE108B>|<url|#auto-211>>|核心原理>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E403332EC0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E403332EC0--790CE4F>|<url|#auto-211>>|12.3 参数化的分类>>
 
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D517F8C0--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D517F8C0--EE108B>|<url|#auto-212>>|使用方式>>
+      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E403337988--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E403337988--790CE4F>|<url|#auto-212>>|12.4 基于弹簧能量的参数化方法>>
 
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D517CEE0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D517CEE0--790CE4F>|<url|#auto-213>>|5.3 Mipmap的存储开销计算>>
-
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5184938--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5184938--790CE4F>|<url|#auto-214>>|5.4 透视场景下的层级计算>>
-
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D517F008-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D517F008-49468931>|<url|#auto-215>>|第6章 几何光栅化抗锯齿技术>><vspace|0.5fn>
-
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5189B20--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5189B20--790CE4F>|<url|#auto-216>>|6.1 超采样抗锯齿（SSAA）>>
-
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D5185508--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5185508--EE108B>|<url|#auto-217>>|实现原理>>
-
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D5183C60--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5183C60--EE108B>|<url|#auto-218>>|采样点布局>>
-
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5195F38--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5195F38--790CE4F>|<url|#auto-219>>|6.2 多重采样抗锯齿（MSAA）>>
-
-      <with|par-left|<quote|2tab>|<locus|<id|%1E3CEDFD288-1E3D5197038--EE108B>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5197038--EE108B>|<url|#auto-220>>|核心思想>>
-
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D519AE28--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D519AE28--790CE4F>|<url|#auto-221>>|6.3 SSAA与MSAA的对比>>
-
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D51A1878--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51A1878--790CE4F>|<url|#auto-222>>|6.4 几何走样与着色走样的区分>>
-
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D51A9D90-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51A9D90-49468931>|<url|#auto-223>>|全书知识框架总结>><vspace|0.5fn>
-
-      <vspace*|2fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-size|<quote|1.19>|<locus|<id|%1E3CEDFD288-1E3D51B18C8-3F6C9B27>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51B18C8-3F6C9B27>|<url|#auto-224>>|LESSON 6 2026-09-29 第5-6节>><vspace|1fn>
-
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D51AB9A8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51AB9A8-49468931>|<url|#auto-225>>|一、课程导入与安排>><vspace|0.5fn>
-
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D51AF640-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51AF640-49468931>|<url|#auto-226>>|二、几何概述>><vspace|0.5fn>
-
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D51AEFF8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51AEFF8--790CE4F>|<url|#auto-227>>|2.1 几何的词源与研究对象>>
-
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D51AE290--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51AE290--790CE4F>|<url|#auto-228>>|2.2 经典几何模型：犹他茶壶>>
-
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D51B00B0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51B00B0--790CE4F>|<url|#auto-229>>|2.3 图形学经典数据集：斯坦福四大模型>>
-
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D51BEF80-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51BEF80-49468931>|<url|#auto-230>>|三、几何的表达分类>><vspace|0.5fn>
-
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D51A9ED8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51A9ED8--790CE4F>|<url|#auto-231>>|3.1 显式表达>>
-
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D51C6078--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51C6078--790CE4F>|<url|#auto-232>>|3.2 隐式表达>>
-
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D51C5310-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51C5310-49468931>|<url|#auto-233>>|四、点云与激光扫描技术>><vspace|0.5fn>
-
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D51AD220-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51AD220-49468931>|<url|#auto-234>>|五、多边形网格基础>><vspace|0.5fn>
-
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D51D5378-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51D5378-49468931>|<url|#auto-235>>|六、三角网格的存储方式>><vspace|0.5fn>
-
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D51CA3B8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51CA3B8--790CE4F>|<url|#auto-236>>|6.1 OBJ格式>>
-
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D51DD680--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51DD680--790CE4F>|<url|#auto-237>>|6.2 Triangle Soup（三角汤）>>
-
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D51D9BE8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51D9BE8--790CE4F>|<url|#auto-238>>|6.3 两种存储方式的对比>>
-
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D51E58E8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51E58E8--790CE4F>|<url|#auto-239>>|6.4 邻接关系的预计算>>
-
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D51EBBF0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51EBBF0-49468931>|<url|#auto-240>>|七、半边数据结构（Half-Edge Data Structure）>><vspace|0.5fn>
-
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D51E9778--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51E9778--790CE4F>|<url|#auto-241>>|<with|text-bg-color|<quote|#ffe47f>|7.1 数据结构定义>>>
-
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D51F6348--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D51F6348--790CE4F>|<url|#auto-242>>|7.2 拓扑遍历操作>>
-
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5204C58--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5204C58--790CE4F>|<url|#auto-243>>|7.3 应用特点>>
-
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D5206038-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5206038-49468931>|<url|#auto-244>>|八、面向渲染的专用网格结构>><vspace|0.5fn>
-
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D520AA00-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D520AA00-49468931>|<url|#auto-245>>|九、四边形网格（Quad Mesh）>><vspace|0.5fn>
-
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D5207FD0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5207FD0-49468931>|<url|#auto-246>>|十、多边形网格的优缺点>><vspace|0.5fn>
-
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D5213CF8-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5213CF8-49468931>|<url|#auto-247>>|十一、网格细分（Mesh Subdivision）>><vspace|0.5fn>
-
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5213CF8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5213CF8--790CE4F>|<url|#auto-248>>|11.1 Catmull-Clark细分>>
-
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D52405B8--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D52405B8--790CE4F>|<url|#auto-249>>|11.2 Loop细分>>
-
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D52453C0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D52453C0-49468931>|<url|#auto-250>>|十二、网格参数化（Mesh Parameterization）>><vspace|0.5fn>
-
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5251540--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5251540--790CE4F>|<url|#auto-251>>|12.1 概念与应用>>
-
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5259B78--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5259B78--790CE4F>|<url|#auto-252>>|12.2 常见的参数化方法>>
-
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D5274BD0--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D5274BD0--790CE4F>|<url|#auto-253>>|12.3 参数化的分类>>
-
-      <with|par-left|<quote|1tab>|<locus|<id|%1E3CEDFD288-1E3D527A990--790CE4F>|<link|hyperlink|<id|%1E3CEDFD288-1E3D527A990--790CE4F>|<url|#auto-254>>|12.4 基于弹簧能量的参数化方法>>
-
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E3D52888A0-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E3D52888A0-49468931>|<url|#auto-255>>|十三、Lab2 介绍>><vspace|0.5fn>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|<locus|<id|%1E3CEDFD288-1E403342B18-49468931>|<link|hyperlink|<id|%1E3CEDFD288-1E403342B18-49468931>|<url|#auto-213>>|十三、Lab2 介绍>><vspace|0.5fn>
     </associate>
   </collection>
 </auxiliary>
